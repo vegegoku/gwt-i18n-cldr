@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'gwt-i18n-cldr'
+rootProject.name = 'gwt-cldr'
