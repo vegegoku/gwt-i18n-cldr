@@ -20,7 +20,8 @@ import org.gwtproject.i18n.shared.DateTimeFormatInfo;
 import org.gwtproject.i18n.shared.DefaultDateTimeFormatInfo;
 
 public class DateTimeFormatInfo_factory {
- public DateTimeFormatInfo create(){
+
+ public static DateTimeFormatInfo create(){
 
    if("".equals(System.getProperty("locale"))){
      return new DefaultDateTimeFormatInfo();

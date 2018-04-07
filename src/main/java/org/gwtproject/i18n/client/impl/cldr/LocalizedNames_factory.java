@@ -21,7 +21,7 @@ import org.gwtproject.i18n.client.LocalizedNames;
 
 public class LocalizedNames_factory {
 
- public LocalizedNames create(){
+ public static LocalizedNames create(){
 
    if("".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl();
