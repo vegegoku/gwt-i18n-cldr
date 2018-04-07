@@ -5,13 +5,13 @@ GWT cldr classes generated from gwt-cldr-importer
 
 ```xml
 <dependency>
-    <groupId>org.gwtproject.tools</groupId>
-    <artifactId>gwt-i18n-cldr</artifactId>
+    <groupId>org.gwtproject.i18n</groupId>
+    <artifactId>gwt-cldr</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
 <dependency>
-    <groupId>org.gwtproject.tools</groupId>
-    <artifactId>gwt-i18n-cldr</artifactId>
+    <groupId>org.gwtproject.i18n</groupId>
+    <artifactId>gwt-cldr</artifactId>
     <version>1.0-SNAPSHOT</version>
     <classifier>sources</classifier>
 </dependency>
