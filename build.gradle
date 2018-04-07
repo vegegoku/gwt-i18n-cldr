@@ -1,4 +1,4 @@
-group 'org.gwtproject.tools'
+group 'org.gwtproject.i18n'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
