@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "HU",
         "HT",
         "IN",
@@ -60,7 +62,6 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
         "MG",
         "MX",
         "YT",
-        "TL",
         "EH",
         "MD",
         "MU",
@@ -135,6 +136,7 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
         "TM",
         "TV",
         "TN",
+        "TL",
         "TZ",
         "TH",
         "TW",
@@ -205,6 +207,7 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
         "KE",
         "CV",
         "CP",
+        "CX",
         "HR",
         "KW",
         "CO",
@@ -236,7 +239,6 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
         "BQ",
         "IC",
         "UM",
-        "CX",
         "TF",
         "GF",
         "PF",
@@ -312,17 +314,17 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
     namesMap.put("019", "አሜሪካ");
     namesMap.put("021", "ሰሜናዊ አሜሪካ");
     namesMap.put("029", "ካሪቢያን");
-    namesMap.put("030", "ምዕራባዊ እሲያ");
+    namesMap.put("030", "ምስራቃዊ እስያ");
     namesMap.put("034", "ደቡባዊ እሲያ");
     namesMap.put("035", "ምዕራባዊ ደቡብ እሲያ");
     namesMap.put("039", "ደቡባዊ አውሮፓ");
-    namesMap.put("053", "አውስትራሊያ");
+    namesMap.put("053", "አውስትራሌዥያ");
     namesMap.put("054", "ሜላኔዥያ");
     namesMap.put("057", "የማይክሮኔዥያን ክልል");
     namesMap.put("061", "ፖሊኔዥያ");
     namesMap.put("142", "እሲያ");
     namesMap.put("143", "መካከለኛው እሲያ");
-    namesMap.put("145", "ምስራቃዊ እሲያ");
+    namesMap.put("145", "ምዕራባዊ እስያ");
     namesMap.put("150", "አውሮፓ");
     namesMap.put("151", "ምዕራባዊ አውሮፓ");
     namesMap.put("154", "ሰሜናዊ አውሮፓ");
@@ -384,9 +386,9 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
     namesMap.put("CU", "ኩባ");
     namesMap.put("CV", "ኬፕ ቬርዴ");
     namesMap.put("CW", "ኩራሳዎ");
-    namesMap.put("CX", "የገና ደሴት");
+    namesMap.put("CX", "ክሪስማስ ደሴት");
     namesMap.put("CY", "ሳይፕረስ");
-    namesMap.put("CZ", "ቼችኒያ");
+    namesMap.put("CZ", "ቼቺያ");
     namesMap.put("DE", "ጀርመን");
     namesMap.put("DG", "ዲዬጎ ጋርሺያ");
     namesMap.put("DJ", "ጂቡቲ");
@@ -558,7 +560,7 @@ public class LocalizedNamesImpl_am extends LocalizedNamesImpl {
     namesMap.put("TH", "ታይላንድ");
     namesMap.put("TJ", "ታጃኪስታን");
     namesMap.put("TK", "ቶክላው");
-    namesMap.put("TL", "ምስራቅ ሌስት");
+    namesMap.put("TL", "ቲሞር ሌስቴ");
     namesMap.put("TM", "ቱርክሜኒስታን");
     namesMap.put("TN", "ቱኒዚያ");
     namesMap.put("TO", "ቶንጋ");

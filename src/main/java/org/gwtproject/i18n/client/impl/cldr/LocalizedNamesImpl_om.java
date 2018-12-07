@@ -286,6 +286,8 @@ public class LocalizedNamesImpl_om extends LocalizedNamesImpl {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

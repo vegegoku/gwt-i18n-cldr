@@ -32,7 +32,8 @@ public class LocalizedNamesImpl_pa extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
-        "EZ",
+        "XA",
+        "XB",
         "AZ",
         "AF",
         "AS",
@@ -234,6 +235,7 @@ public class LocalizedNamesImpl_pa extends LocalizedNamesImpl {
         "UG",
         "GB",
         "EU",
+        "EZ",
         "RW",
         "RE",
         "RU",
@@ -403,6 +405,7 @@ public class LocalizedNamesImpl_pa extends LocalizedNamesImpl {
     namesMap.put("ES", "ਸਪੇਨ");
     namesMap.put("ET", "ਇਥੋਪੀਆ");
     namesMap.put("EU", "ਯੂਰਪੀ ਸੰਘ");
+    namesMap.put("EZ", "ਯੂਰੋਜ਼ੋਨ");
     namesMap.put("FI", "ਫਿਨਲੈਂਡ");
     namesMap.put("FJ", "ਫ਼ਿਜੀ");
     namesMap.put("FK", "ਫ਼ਾਕਲੈਂਡ ਟਾਪੂ");

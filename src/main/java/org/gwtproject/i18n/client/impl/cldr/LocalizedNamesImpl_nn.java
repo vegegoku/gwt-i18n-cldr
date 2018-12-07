@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_nn extends LocalizedNamesImpl {
         "EH",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "QO",
         "ZM",
         "ZW",

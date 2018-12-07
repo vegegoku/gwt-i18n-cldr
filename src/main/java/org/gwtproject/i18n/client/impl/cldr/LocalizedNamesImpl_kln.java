@@ -291,6 +291,8 @@ public class LocalizedNamesImpl_kln extends LocalizedNamesImpl {
         "TF",
         "UM",
         "UN",
+        "XA",
+        "XB",
         "XK",
     };
   }

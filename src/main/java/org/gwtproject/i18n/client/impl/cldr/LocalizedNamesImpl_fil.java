@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_fil extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",

@@ -25,6 +25,8 @@ public class LocalizedNamesImpl_ru_UA extends LocalizedNamesImpl_ru {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AU",
         "AT",
         "AZ",
@@ -114,7 +116,6 @@ public class LocalizedNamesImpl_ru_UA extends LocalizedNamesImpl_ru {
         "YE",
         "CV",
         "KZ",
-        "KY",
         "KH",
         "CM",
         "CA",
@@ -193,6 +194,7 @@ public class LocalizedNamesImpl_ru_UA extends LocalizedNamesImpl_ru {
         "SH",
         "OM",
         "UN",
+        "KY",
         "PK",
         "PW",
         "PS",

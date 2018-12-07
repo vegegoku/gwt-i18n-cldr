@@ -277,6 +277,8 @@ public class LocalizedNamesImpl_nmg extends LocalizedNamesImpl {
         "VN",
         "VE",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZM",

@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_uz extends LocalizedNamesImpl {
         "VE",
         "HU",
         "VN",
+        "XA",
+        "XB",
         "HM",
         "CN",
         "HR",

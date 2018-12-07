@@ -241,6 +241,8 @@ public class LocalizedNamesImpl_cy extends LocalizedNamesImpl {
         "VE",
         "WF",
         "UA",
+        "XA",
+        "XB",
         "BS",
         "UN",
         "CG",
@@ -370,7 +372,7 @@ public class LocalizedNamesImpl_cy extends LocalizedNamesImpl {
     namesMap.put("GR", "Gwlad Groeg");
     namesMap.put("GS", "De Georgia ac Ynysoedd Sandwich y De");
     namesMap.put("GW", "Guiné-Bissau");
-    namesMap.put("HK", "Hong Kong RhGA Tsieina");
+    namesMap.put("HK", "Hong Kong SAR Tseina");
     namesMap.put("HM", "Ynys Heard ac Ynysoedd McDonald");
     namesMap.put("HU", "Hwngari");
     namesMap.put("IC", "Yr Ynysoedd Dedwydd");

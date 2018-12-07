@@ -290,6 +290,10 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_mzn();
    }
 
+   if("ia".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_ia();
+   }
+
    if("es_CL".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_es_CL();
    }
@@ -376,6 +380,10 @@ public class DateTimeFormatInfo_factory {
 
    if("so_DJ".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_so_DJ();
+   }
+
+   if("ku".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_ku();
    }
 
    if("ms".equals(System.getProperty("locale"))){
@@ -582,6 +590,10 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_en_UM();
    }
 
+   if("ia_001".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_ia_001();
+   }
+
    if("yue_Hans".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_yue_Hans();
    }
@@ -714,6 +726,10 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_hsb();
    }
 
+   if("jv".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_jv();
+   }
+
    if("kw".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_kw();
    }
@@ -738,12 +754,12 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_sr_Latn_XK();
    }
 
-   if("ru_UA".equals(System.getProperty("locale"))){
-     return new DateTimeFormatInfoImpl_ru_UA();
-   }
-
    if("pl".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_pl();
+   }
+
+   if("ru_UA".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_ru_UA();
    }
 
    if("kab".equals(System.getProperty("locale"))){
@@ -916,6 +932,10 @@ public class DateTimeFormatInfo_factory {
 
    if("yue_Hant".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_yue_Hant();
+   }
+
+   if("xh".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_xh();
    }
 
    if("es_CR".equals(System.getProperty("locale"))){
@@ -1246,10 +1266,6 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_el_CY();
    }
 
-   if("ff_MR".equals(System.getProperty("locale"))){
-     return new DateTimeFormatInfoImpl_ff_MR();
-   }
-
    if("ti".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_ti();
    }
@@ -1314,8 +1330,8 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_ug();
    }
 
-   if("shi_Tfng".equals(System.getProperty("locale"))){
-     return new DateTimeFormatInfoImpl_shi_Tfng();
+   if("ff_Latn_MR".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_ff_Latn_MR();
    }
 
    if("fr_GQ".equals(System.getProperty("locale"))){
@@ -1336,6 +1352,10 @@ public class DateTimeFormatInfo_factory {
 
    if("es_ES".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_es_ES();
+   }
+
+   if("mi".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_mi();
    }
 
    if("nl_CW".equals(System.getProperty("locale"))){
@@ -1398,12 +1418,12 @@ public class DateTimeFormatInfo_factory {
      return new DateTimeFormatInfoImpl_bem();
    }
 
-   if("fr_PM".equals(System.getProperty("locale"))){
-     return new DateTimeFormatInfoImpl_fr_PM();
-   }
-
    if("en_BI".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_en_BI();
+   }
+
+   if("fr_PM".equals(System.getProperty("locale"))){
+     return new DateTimeFormatInfoImpl_fr_PM();
    }
 
    if("ar_SD".equals(System.getProperty("locale"))){
@@ -1652,10 +1672,6 @@ public class DateTimeFormatInfo_factory {
 
    if("bs".equals(System.getProperty("locale"))){
      return new DateTimeFormatInfoImpl_bs();
-   }
-
-   if("shi_Tfng_MA".equals(System.getProperty("locale"))){
-     return new DateTimeFormatInfoImpl_shi_Tfng_MA();
    }
 
    if("fr_GN".equals(System.getProperty("locale"))){

@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_vi extends LocalizedNamesImpl {
         "QO",
         "GB",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",
@@ -371,7 +373,7 @@ public class LocalizedNamesImpl_vi extends LocalizedNamesImpl {
     namesMap.put("IC", "Quần đảo Canary");
     namesMap.put("IM", "Đảo Man");
     namesMap.put("IN", "Ấn Độ");
-    namesMap.put("IO", "Lãnh thổ Ấn độ dương thuộc Anh");
+    namesMap.put("IO", "Lãnh thổ Ấn Độ Dương thuộc Anh");
     namesMap.put("JP", "Nhật Bản");
     namesMap.put("KH", "Campuchia");
     namesMap.put("KN", "St. Kitts và Nevis");

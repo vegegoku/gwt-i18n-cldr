@@ -288,6 +288,8 @@ public class LocalizedNamesImpl_ro extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",
@@ -447,7 +449,6 @@ public class LocalizedNamesImpl_ro extends LocalizedNamesImpl {
     namesMap.put("TF", "Teritoriile Australe și Antarctice Franceze");
     namesMap.put("TH", "Thailanda");
     namesMap.put("TJ", "Tadjikistan");
-    namesMap.put("TL", "Timorul de Est");
     namesMap.put("TR", "Turcia");
     namesMap.put("TT", "Trinidad și Tobago");
     namesMap.put("UA", "Ucraina");

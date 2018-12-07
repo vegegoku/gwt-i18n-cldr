@@ -25,8 +25,9 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AW",
-        "AU",
         "DE",
         "AI",
         "IE",
@@ -38,6 +39,7 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "AM",
         "ER",
         "UZ",
+        "AU",
         "EE",
         "IL",
         "SJ",
@@ -123,7 +125,6 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "AZ",
         "CF",
         "DO",
-        "CZ",
         "DJ",
         "DK",
         "DM",
@@ -135,13 +136,14 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "ZM",
         "NZ",
         "ZW",
+        "EA",
         "ST",
         "CI",
         "UN",
         "WS",
         "AS",
         "SM",
-        "EA",
+        "TF",
         "PS",
         "LK",
         "SK",
@@ -180,7 +182,6 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "KZ",
         "QA",
         "IO",
-        "TF",
         "LA",
         "LV",
         "LB",
@@ -225,10 +226,10 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "NI",
         "NL",
         "HN",
+        "HK",
         "HT",
         "ES",
         "IN",
-        "HK",
         "VA",
         "WF",
         "VU",
@@ -246,6 +247,7 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
         "PE",
         "TD",
         "CL",
+        "CZ",
         "CN",
         "CR",
         "NC",
@@ -297,7 +299,6 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("AO", "انگولا");
     namesMap.put("AQ", "انترکتیکا");
     namesMap.put("AR", "ارجنتاین");
-    namesMap.put("AU", "آسترالیا");
     namesMap.put("BA", "بوسنیا و هرزه‌گوینا");
     namesMap.put("BD", "بنگله‌دیش");
     namesMap.put("BE", "بلجیم");
@@ -313,7 +314,9 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("CO", "کولمبیا");
     namesMap.put("CR", "کاستریکا");
     namesMap.put("CU", "کیوبا");
+    namesMap.put("CZ", "چک");
     namesMap.put("DK", "دنمارک");
+    namesMap.put("EA", "سئوتا و ملیلا");
     namesMap.put("EE", "استونیا");
     namesMap.put("ER", "اریتریا");
     namesMap.put("ES", "هسپانیه");
@@ -327,6 +330,7 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("GT", "گواتیمالا");
     namesMap.put("GW", "گینیا بیسائو");
     namesMap.put("GY", "گیانا");
+    namesMap.put("HK", "هانگ کانگ، ناحیهٔ ویژهٔ حکومتی چین");
     namesMap.put("HN", "هاندوراس");
     namesMap.put("HR", "کروشیا");
     namesMap.put("HT", "هایتی");
@@ -335,7 +339,6 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("IS", "آیسلند");
     namesMap.put("JP", "جاپان");
     namesMap.put("KE", "کینیا");
-    namesMap.put("KG", "قرغزستان");
     namesMap.put("KH", "کمپوچیا");
     namesMap.put("KP", "کوریای شمالی");
     namesMap.put("KR", "کوریای جنوبی");
@@ -351,7 +354,6 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("MX", "مکسیکو");
     namesMap.put("MY", "مالیزیا");
     namesMap.put("MZ", "موزمبیق");
-    namesMap.put("NE", "نایجر");
     namesMap.put("NG", "نیجریا");
     namesMap.put("NI", "نیکاراگوا");
     namesMap.put("NL", "هالند");
@@ -365,17 +367,16 @@ public class LocalizedNamesImpl_fa_AF extends LocalizedNamesImpl_fa {
     namesMap.put("PT", "پرتگال");
     namesMap.put("PY", "پاراگوای");
     namesMap.put("RO", "رومانیا");
-    namesMap.put("RW", "روآندا");
     namesMap.put("SE", "سویدن");
     namesMap.put("SG", "سینگاپور");
     namesMap.put("SI", "سلونیا");
+    namesMap.put("SJ", "اسوالبارد و جان ماین");
     namesMap.put("SK", "سلواکیا");
     namesMap.put("SL", "سیرالیون");
     namesMap.put("SN", "سینیگال");
     namesMap.put("SO", "سومالیه");
     namesMap.put("SV", "السلوادور");
     namesMap.put("TJ", "تاجکستان");
-    namesMap.put("UA", "اکراین");
     namesMap.put("UG", "یوگاندا");
     namesMap.put("UY", "یوروگوای");
     namesMap.put("VC", "سنت وینسنت و گرنادین‌ها");

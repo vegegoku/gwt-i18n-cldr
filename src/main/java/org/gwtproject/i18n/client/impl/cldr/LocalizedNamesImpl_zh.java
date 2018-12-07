@@ -33,6 +33,8 @@ public class LocalizedNamesImpl_zh extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AL",
         "DZ",
         "AF",

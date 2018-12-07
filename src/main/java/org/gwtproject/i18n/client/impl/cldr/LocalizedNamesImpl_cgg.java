@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_cgg extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

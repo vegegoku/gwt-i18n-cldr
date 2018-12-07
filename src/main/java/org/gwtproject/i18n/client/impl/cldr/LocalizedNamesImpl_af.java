@@ -33,6 +33,7 @@ public class LocalizedNamesImpl_af extends LocalizedNamesImpl {
   public String[] loadSortedRegionCodes() {
     return new String[] {
         "AF",
+        "QO",
         "AX",
         "AL",
         "DZ",
@@ -205,7 +206,6 @@ public class LocalizedNamesImpl_af extends LocalizedNamesImpl {
         "UA",
         "UZ",
         "OM",
-        "QO",
         "AT",
         "TL",
         "PK",
@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_af extends LocalizedNamesImpl {
         "VI",
         "WF",
         "EH",
+        "XA",
+        "XB",
         "IS",
         "ZM",
         "ZW",
@@ -311,7 +313,7 @@ public class LocalizedNamesImpl_af extends LocalizedNamesImpl {
     namesMap.put("018", "Suider-Afrika");
     namesMap.put("019", "Amerikas");
     namesMap.put("021", "Noordelike Amerika");
-    namesMap.put("029", "Karibies");
+    namesMap.put("029", "Karibiese streek");
     namesMap.put("030", "Oos-Asië");
     namesMap.put("034", "Suid-Asië");
     namesMap.put("035", "Suidoos-Asië");
@@ -464,7 +466,7 @@ public class LocalizedNamesImpl_af extends LocalizedNamesImpl {
     namesMap.put("PN", "Pitcairneilande");
     namesMap.put("PS", "Palestynse gebiede");
     namesMap.put("QA", "Katar");
-    namesMap.put("QO", "Omliggende Oseanië");
+    namesMap.put("QO", "Afgeleë Oseanië");
     namesMap.put("RO", "Roemenië");
     namesMap.put("RS", "Serwië");
     namesMap.put("RU", "Rusland");

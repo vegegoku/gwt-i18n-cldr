@@ -331,6 +331,10 @@ public class LocalizedNames_factory {
      return new LocalizedNamesImpl_kok();
    }
 
+   if("ia".equals(System.getProperty("locale"))){
+     return new LocalizedNamesImpl_ia();
+   }
+
    if("wo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_wo();
    }
@@ -411,6 +415,10 @@ public class LocalizedNames_factory {
      return new LocalizedNamesImpl_mua();
    }
 
+   if("ku".equals(System.getProperty("locale"))){
+     return new LocalizedNamesImpl_ku();
+   }
+
    if("ms".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ms();
    }
@@ -461,6 +469,10 @@ public class LocalizedNames_factory {
 
    if("bez".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bez();
+   }
+
+   if("mi".equals(System.getProperty("locale"))){
+     return new LocalizedNamesImpl_mi();
    }
 
    if("hi".equals(System.getProperty("locale"))){
@@ -831,6 +843,10 @@ public class LocalizedNames_factory {
      return new LocalizedNamesImpl_ro_MD();
    }
 
+   if("jv".equals(System.getProperty("locale"))){
+     return new LocalizedNamesImpl_jv();
+   }
+
    if("kw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kw();
    }
@@ -1053,6 +1069,10 @@ public class LocalizedNames_factory {
 
    if("pa_Arab".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pa_Arab();
+   }
+
+   if("xh".equals(System.getProperty("locale"))){
+     return new LocalizedNamesImpl_xh();
    }
 
    if("es_CR".equals(System.getProperty("locale"))){

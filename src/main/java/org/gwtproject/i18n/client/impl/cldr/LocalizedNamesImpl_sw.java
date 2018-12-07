@@ -93,7 +93,6 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "FJ",
         "GA",
         "GM",
-        "GS",
         "GH",
         "GI",
         "GN",
@@ -108,6 +107,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "GQ",
         "GY",
         "HT",
+        "TF",
         "HN",
         "HK",
         "HU",
@@ -115,7 +115,6 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "ID",
         "IQ",
         "IR",
-        "IM",
         "IL",
         "IT",
         "JM",
@@ -139,6 +138,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "CP",
         "HM",
         "CX",
+        "IM",
         "NF",
         "CO",
         "KM",
@@ -160,7 +160,6 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "MO",
         "MK",
         "MG",
-        "TF",
         "PS",
         "MW",
         "MV",
@@ -251,6 +250,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "TV",
         "BE",
         "CN",
+        "GB",
         "FR",
         "PH",
         "FI",
@@ -259,7 +259,6 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "ES",
         "NL",
         "BQ",
-        "GB",
         "DE",
         "UA",
         "UN",
@@ -283,6 +282,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "CK",
         "FK",
         "FO",
+        "GS",
         "IC",
         "MP",
         "MH",
@@ -292,6 +292,8 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
         "VI",
         "VG",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",
@@ -325,6 +327,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
     namesMap.put("151", "Ulaya ya Mashariki");
     namesMap.put("154", "Ulaya ya Kaskazini");
     namesMap.put("155", "Ulaya ya Magharibi");
+    namesMap.put("202", "Afrika Kusine mwa Jangwa la Sahara");
     namesMap.put("419", "Amerika ya Kilatini");
     namesMap.put("AC", "Kisiwa cha Ascension");
     namesMap.put("AE", "Falme za Kiarabu");
@@ -333,6 +336,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
     namesMap.put("AR", "Ajentina");
     namesMap.put("AS", "Samoa ya Marekani");
     namesMap.put("AX", "Visiwa vya Aland");
+    namesMap.put("AZ", "Azerbaijani");
     namesMap.put("BA", "Bosnia na Hezegovina");
     namesMap.put("BB", "Babadosi");
     namesMap.put("BD", "Bangladeshi");
@@ -373,22 +377,23 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
     namesMap.put("FK", "Visiwa vya Falkland");
     namesMap.put("FO", "Visiwa vya Faroe");
     namesMap.put("FR", "Ufaransa");
-    namesMap.put("GB", "Uingereza");
+    namesMap.put("GB", "Ufalme wa Muungano");
     namesMap.put("GE", "Jojia");
     namesMap.put("GF", "Guiana ya Ufaransa");
     namesMap.put("GN", "Gine");
     namesMap.put("GQ", "Guinea ya Ikweta");
     namesMap.put("GR", "Ugiriki");
-    namesMap.put("GS", "Georgia Kusini na Visiwa vya Sandwich Kusini");
+    namesMap.put("GS", "Visiwa vya Georgia Kusini na Sandwich Kusini");
     namesMap.put("GW", "Ginebisau");
     namesMap.put("HM", "Kisiwa cha Heard na Visiwa vya McDonald");
     namesMap.put("HU", "Hungaria");
     namesMap.put("IC", "Visiwa vya Kanari");
     namesMap.put("IE", "Ayalandi");
     namesMap.put("IL", "Israeli");
+    namesMap.put("IM", "Kisiwa cha Man");
     namesMap.put("IO", "Eneo la Uingereza katika Bahari Hindi");
     namesMap.put("IQ", "Iraki");
-    namesMap.put("IS", "Aislandi");
+    namesMap.put("IS", "Aisilandi");
     namesMap.put("IT", "Italia");
     namesMap.put("JM", "Jamaika");
     namesMap.put("JP", "Japani");
@@ -434,7 +439,7 @@ public class LocalizedNamesImpl_sw extends LocalizedNamesImpl {
     namesMap.put("ST", "São Tomé na Príncipe");
     namesMap.put("SZ", "Uswazi");
     namesMap.put("TC", "Visiwa vya Turks na Caicos");
-    namesMap.put("TF", "Maeneo ya Kusini ya Ufaransa");
+    namesMap.put("TF", "Himaya za Kusini za Kifaranza");
     namesMap.put("TH", "Tailandi");
     namesMap.put("TJ", "Tajikistani");
     namesMap.put("TR", "Uturuki");

@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_sr_Latn extends LocalizedNamesImpl_sr {
         "VA",
         "VE",
         "VN",
+        "XA",
+        "XB",
         "ZM",
         "EH",
         "CV",

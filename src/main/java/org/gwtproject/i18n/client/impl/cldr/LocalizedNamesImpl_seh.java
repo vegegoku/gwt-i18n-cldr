@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_seh extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "ZM",
         "ZW",

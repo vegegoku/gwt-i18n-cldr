@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "KE",
         "CM",
         "CA",
@@ -130,7 +132,6 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
         "KR",
         "GS",
         "SS",
-        "MP",
         "ZA",
         "TO",
         "TA",
@@ -222,6 +223,7 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
         "MV",
         "MM",
         "KP",
+        "MP",
         "MN",
         "ME",
         "YE",
@@ -258,9 +260,9 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
         "AC",
         "AZ",
         "EH",
-        "AQ",
         "AO",
         "AI",
+        "AQ",
         "AG",
         "AD",
         "AS",
@@ -338,7 +340,7 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
     namesMap.put("AL", "အယ်လ်ဘေးနီးယား");
     namesMap.put("AM", "အာမေးနီးယား");
     namesMap.put("AO", "အန်ဂိုလာ");
-    namesMap.put("AQ", "အန္တာတိက");
+    namesMap.put("AQ", "အန်တာတိက");
     namesMap.put("AR", "အာဂျင်တီးနား");
     namesMap.put("AS", "အမေရိကန် ဆမိုးအား");
     namesMap.put("AT", "ဩစတြီးယား");
@@ -484,7 +486,7 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
     namesMap.put("MM", "မြန်မာ");
     namesMap.put("MN", "မွန်ဂိုးလီးယား");
     namesMap.put("MO", "မကာအို (တရုတ်ပြည်)");
-    namesMap.put("MP", "တောင်ပိုင်းမာရီအာနာကျွန်းစု");
+    namesMap.put("MP", "မြောက်ပိုင်းမာရီအာနာကျွန်းစု");
     namesMap.put("MQ", "မာတီနိခ်");
     namesMap.put("MR", "မော်ရီတေးနီးယား");
     namesMap.put("MS", "မောင့်စဲရက်");
@@ -492,7 +494,7 @@ public class LocalizedNamesImpl_my extends LocalizedNamesImpl {
     namesMap.put("MU", "မောရစ်ရှ");
     namesMap.put("MV", "မော်လ်ဒိုက်");
     namesMap.put("MW", "မာလာဝီ");
-    namesMap.put("MX", "မက္ကဆီကို");
+    namesMap.put("MX", "မက်ကဆီကို");
     namesMap.put("MY", "မလေးရှား");
     namesMap.put("MZ", "မိုဇမ်ဘစ်");
     namesMap.put("NA", "နမီးဘီးယား");

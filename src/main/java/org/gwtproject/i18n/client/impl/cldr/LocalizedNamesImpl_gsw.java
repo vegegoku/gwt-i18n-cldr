@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_gsw extends LocalizedNamesImpl {
         "CX",
         "VN",
         "BY",
+        "XA",
+        "XB",
         "XK",
         "CF",
         "CY",

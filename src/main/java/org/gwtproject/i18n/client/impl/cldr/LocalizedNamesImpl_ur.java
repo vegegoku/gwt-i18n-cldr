@@ -33,6 +33,8 @@ public class LocalizedNamesImpl_ur extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "IE",
         "IS",
         "IM",
@@ -328,7 +330,7 @@ public class LocalizedNamesImpl_ur extends LocalizedNamesImpl {
     namesMap.put("151", "مشرقی یورپ");
     namesMap.put("154", "شمالی یورپ");
     namesMap.put("155", "مغربی یورپ");
-    namesMap.put("202", "سَب صحارن افریقہ");
+    namesMap.put("202", "ذیلی صحارن افریقہ");
     namesMap.put("419", "لاطینی امریکہ");
     namesMap.put("AC", "اسینشن آئلینڈ");
     namesMap.put("AD", "انڈورا");

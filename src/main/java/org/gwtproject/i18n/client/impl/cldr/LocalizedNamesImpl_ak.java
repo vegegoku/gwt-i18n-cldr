@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_ak extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "UY",
         "YE",

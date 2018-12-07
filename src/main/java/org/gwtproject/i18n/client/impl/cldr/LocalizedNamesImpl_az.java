@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_az extends LocalizedNamesImpl {
         "VA",
         "VE",
         "VN",
+        "XA",
+        "XB",
         "HR",
         "JM",
         "JP",

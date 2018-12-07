@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_dje extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZM",

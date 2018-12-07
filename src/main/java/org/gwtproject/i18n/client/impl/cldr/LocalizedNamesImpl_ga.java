@@ -285,6 +285,8 @@ public class LocalizedNamesImpl_ga extends LocalizedNamesImpl {
         "VU",
         "VE",
         "VN",
+        "XA",
+        "XB",
     };
   }
 
@@ -292,7 +294,7 @@ public class LocalizedNamesImpl_ga extends LocalizedNamesImpl {
   protected void loadNameMap() {
     super.loadNameMap();
     namesMap.put("001", "an Domhan");
-    namesMap.put("002", "An Afraic");
+    namesMap.put("002", "an Afraic");
     namesMap.put("003", "Meiriceá Thuaidh");
     namesMap.put("005", "Meiriceá Theas");
     namesMap.put("009", "an Aigéine");
@@ -300,7 +302,7 @@ public class LocalizedNamesImpl_ga extends LocalizedNamesImpl {
     namesMap.put("013", "Meiriceá Láir");
     namesMap.put("014", "Oirthear na hAfraice");
     namesMap.put("015", "Tuaisceart na hAfraice");
-    namesMap.put("017", "An Afraic Láir");
+    namesMap.put("017", "an Afraic Láir");
     namesMap.put("018", "Deisceart na hAfraice");
     namesMap.put("019", "Críocha Mheiriceá");
     namesMap.put("021", "Tuaisceart Mheiriceá");
@@ -378,7 +380,7 @@ public class LocalizedNamesImpl_ga extends LocalizedNamesImpl {
     namesMap.put("CV", "Rinn Verde");
     namesMap.put("CX", "Oileán na Nollag");
     namesMap.put("CY", "an Chipir");
-    namesMap.put("CZ", "An tSeicia");
+    namesMap.put("CZ", "an tSeicia");
     namesMap.put("DE", "an Ghearmáin");
     namesMap.put("DK", "an Danmhairg");
     namesMap.put("DM", "Doiminice");

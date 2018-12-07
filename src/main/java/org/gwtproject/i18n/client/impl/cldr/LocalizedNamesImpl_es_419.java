@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_es_419 extends LocalizedNamesImpl_es {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "DJ",
         "ZM",
@@ -306,6 +308,7 @@ public class LocalizedNamesImpl_es_419 extends LocalizedNamesImpl_es {
     namesMap.put("155", "Europa del Oeste");
     namesMap.put("AC", "Isla Ascensión");
     namesMap.put("BA", "Bosnia-Herzegovina");
+    namesMap.put("CG", "República del Congo");
     namesMap.put("CI", "Costa de Marfil");
     namesMap.put("EZ", "Eurozona");
     namesMap.put("GG", "Guernesey");

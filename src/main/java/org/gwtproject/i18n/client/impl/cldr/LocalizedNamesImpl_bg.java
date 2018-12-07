@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_bg extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AU",
         "AT",
         "AZ",
@@ -361,7 +363,7 @@ public class LocalizedNamesImpl_bg extends LocalizedNamesImpl {
     namesMap.put("BO", "Боливия");
     namesMap.put("BQ", "Карибска Нидерландия");
     namesMap.put("BR", "Бразилия");
-    namesMap.put("BS", "Бахами");
+    namesMap.put("BS", "Бахамски острови");
     namesMap.put("BT", "Бутан");
     namesMap.put("BV", "остров Буве");
     namesMap.put("BW", "Ботсвана");
@@ -406,7 +408,7 @@ public class LocalizedNamesImpl_bg extends LocalizedNamesImpl {
     namesMap.put("EZ", "Еврозона");
     namesMap.put("FI", "Финландия");
     namesMap.put("FJ", "Фиджи");
-    namesMap.put("FK", "Фолклендски острови");
+    namesMap.put("FK", "Фолкландски острови");
     namesMap.put("FM", "Микронезия");
     namesMap.put("FO", "Фарьорски острови");
     namesMap.put("FR", "Франция");

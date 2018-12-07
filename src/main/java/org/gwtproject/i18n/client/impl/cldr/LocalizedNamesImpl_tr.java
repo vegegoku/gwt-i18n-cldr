@@ -80,6 +80,7 @@ public class LocalizedNamesImpl_tr extends LocalizedNamesImpl {
         "CV",
         "KY",
         "GI",
+        "EA",
         "DZ",
         "CX",
         "DJ",
@@ -242,7 +243,6 @@ public class LocalizedNamesImpl_tr extends LocalizedNamesImpl {
         "SM",
         "ST",
         "SN",
-        "EA",
         "SC",
         "RS",
         "SL",
@@ -286,6 +286,8 @@ public class LocalizedNamesImpl_tr extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "NC",
         "NZ",
@@ -379,7 +381,7 @@ public class LocalizedNamesImpl_tr extends LocalizedNamesImpl {
     namesMap.put("DM", "Dominika");
     namesMap.put("DO", "Dominik Cumhuriyeti");
     namesMap.put("DZ", "Cezayir");
-    namesMap.put("EA", "Septe ve Melilla");
+    namesMap.put("EA", "Ceuta ve Melilla");
     namesMap.put("EC", "Ekvador");
     namesMap.put("EE", "Estonya");
     namesMap.put("EG", "Mısır");

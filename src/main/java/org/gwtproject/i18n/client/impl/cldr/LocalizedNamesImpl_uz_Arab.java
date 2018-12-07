@@ -278,6 +278,8 @@ public class LocalizedNamesImpl_uz_Arab extends LocalizedNamesImpl_uz {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

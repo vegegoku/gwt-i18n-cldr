@@ -268,6 +268,8 @@ public class LocalizedNamesImpl_jgo extends LocalizedNamesImpl {
         "VE",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZA",

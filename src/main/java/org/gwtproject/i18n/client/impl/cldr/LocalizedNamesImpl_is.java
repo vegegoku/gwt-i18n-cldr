@@ -68,7 +68,6 @@ public class LocalizedNamesImpl_is extends LocalizedNamesImpl {
         "EA",
         "CP",
         "CK",
-        "CI",
         "CW",
         "DK",
         "DG",
@@ -87,6 +86,7 @@ public class LocalizedNamesImpl_is extends LocalizedNamesImpl {
         "PH",
         "FI",
         "FJ",
+        "CI",
         "FR",
         "GF",
         "PF",
@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_is extends LocalizedNamesImpl {
         "EH",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "QO",
         "DE",
     };
@@ -364,6 +366,7 @@ public class LocalizedNamesImpl_is extends LocalizedNamesImpl {
     namesMap.put("CF", "Mið-Afríkulýðveldið");
     namesMap.put("CG", "Kongó-Brazzaville");
     namesMap.put("CH", "Sviss");
+    namesMap.put("CI", "Fílabeinsströndin");
     namesMap.put("CK", "Cooks-eyjar");
     namesMap.put("CL", "Síle");
     namesMap.put("CM", "Kamerún");

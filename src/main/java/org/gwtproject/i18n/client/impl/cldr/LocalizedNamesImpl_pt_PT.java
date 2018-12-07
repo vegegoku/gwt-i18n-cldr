@@ -134,10 +134,10 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
         "IC",
         "CK",
         "CC",
-        "FK",
         "FO",
         "GS",
         "HM",
+        "FK",
         "MP",
         "MH",
         "UM",
@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "ZW",
         "EZ",
@@ -299,7 +301,6 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
     namesMap.put("039", "Europa do Sul");
     namesMap.put("154", "Europa do Norte");
     namesMap.put("202", "África subsariana");
-    namesMap.put("AI", "Anguila");
     namesMap.put("AM", "Arménia");
     namesMap.put("AX", "Alanda");
     namesMap.put("BD", "Bangladeche");
@@ -315,10 +316,11 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
     namesMap.put("CZ", "Chéquia");
     namesMap.put("DJ", "Jibuti");
     namesMap.put("DM", "Domínica");
+    namesMap.put("EA", "Ceuta e Melilha");
     namesMap.put("EE", "Estónia");
     namesMap.put("EH", "Sara Ocidental");
     namesMap.put("EZ", "Zona Euro");
-    namesMap.put("FK", "Ilhas Falkland");
+    namesMap.put("FK", "Ilhas Malvinas (Falkland)");
     namesMap.put("FO", "Ilhas Faroé");
     namesMap.put("GG", "Guernesey");
     namesMap.put("GL", "Gronelândia");
@@ -333,13 +335,14 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
     namesMap.put("LK", "Sri Lanca");
     namesMap.put("LV", "Letónia");
     namesMap.put("MC", "Mónaco");
+    namesMap.put("MD", "Moldávia");
     namesMap.put("MG", "Madagáscar");
     namesMap.put("MK", "Macedónia");
+    namesMap.put("MO", "Macau, RAE da China");
     namesMap.put("MS", "Monserrate");
     namesMap.put("MU", "Maurícia");
     namesMap.put("MW", "Maláui");
     namesMap.put("NC", "Nova Caledónia");
-    namesMap.put("NL", "Países Baixos");
     namesMap.put("NU", "Niuê");
     namesMap.put("PL", "Polónia");
     namesMap.put("PS", "Territórios palestinianos");
@@ -349,7 +352,6 @@ public class LocalizedNamesImpl_pt_PT extends LocalizedNamesImpl_pt {
     namesMap.put("SM", "São Marinho");
     namesMap.put("SV", "Salvador");
     namesMap.put("SX", "São Martinho (Sint Maarten)");
-    namesMap.put("TC", "Ilhas Turcas e Caicos");
     namesMap.put("TJ", "Tajiquistão");
     namesMap.put("TK", "Toquelau");
     namesMap.put("TM", "Turquemenistão");

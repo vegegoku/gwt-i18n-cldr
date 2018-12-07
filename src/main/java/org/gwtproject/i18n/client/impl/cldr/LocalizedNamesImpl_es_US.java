@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_es_US extends LocalizedNamesImpl_es {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "DJ",
         "ZM",
@@ -291,6 +293,7 @@ public class LocalizedNamesImpl_es_US extends LocalizedNamesImpl_es {
   @Override
   protected void loadNameMap() {
     super.loadNameMap();
+    namesMap.put("CG", "República del Congo");
     namesMap.put("IC", "Islas Canarias");
     namesMap.put("TA", "Tristán da Cunha");
   }

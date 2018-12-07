@@ -97,6 +97,7 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
         "ET",
         "EZ",
         "EU",
+        "FK",
         "FO",
         "FJ",
         "PH",
@@ -179,7 +180,6 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
         "MV",
         "ML",
         "MT",
-        "FK",
         "IM",
         "MA",
         "MH",
@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "NZ",
@@ -303,11 +305,11 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
     namesMap.put("017", "Erdialdeko Afrika");
     namesMap.put("018", "Afrika hegoaldea");
     namesMap.put("019", "Amerika");
-    namesMap.put("021", "Amerika iparraldea");
+    namesMap.put("021", "Amerikako iparraldea");
     namesMap.put("029", "Karibea");
     namesMap.put("030", "Asia ekialdea");
     namesMap.put("034", "Asia hegoaldea");
-    namesMap.put("035", "Asia hego-ekialdea");
+    namesMap.put("035", "Asiako hego-ekialdea");
     namesMap.put("039", "Europa hegoaldea");
     namesMap.put("057", "Mikronesia eskualdea");
     namesMap.put("061", "Polinesia");
@@ -326,7 +328,7 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
     namesMap.put("AI", "Aingira");
     namesMap.put("AQ", "Antartika");
     namesMap.put("AS", "Samoa Estatubatuarra");
-    namesMap.put("AX", "Aland uharteak");
+    namesMap.put("AX", "Åland");
     namesMap.put("BA", "Bosnia-Herzegovina");
     namesMap.put("BE", "Belgika");
     namesMap.put("BL", "Saint Barthélemy");
@@ -336,7 +338,7 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
     namesMap.put("BV", "Bouvet uhartea");
     namesMap.put("BY", "Bielorrusia");
     namesMap.put("CA", "Kanada");
-    namesMap.put("CC", "Cocos uharteak");
+    namesMap.put("CC", "Cocos (Keeling) uharteak");
     namesMap.put("CD", "Kongoko Errepublika Demokratikoa");
     namesMap.put("CF", "Afrika Erdiko Errepublika");
     namesMap.put("CG", "Kongo");
@@ -369,7 +371,7 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
     namesMap.put("EU", "Europar Batasuna");
     namesMap.put("EZ", "Eurogunea");
     namesMap.put("FI", "Finlandia");
-    namesMap.put("FK", "Malvinak");
+    namesMap.put("FK", "Falklandak");
     namesMap.put("FM", "Mikronesia");
     namesMap.put("FO", "Faroe uharteak");
     namesMap.put("FR", "Frantzia");
@@ -437,7 +439,7 @@ public class LocalizedNamesImpl_eu extends LocalizedNamesImpl {
     namesMap.put("PL", "Polonia");
     namesMap.put("PM", "Saint-Pierre eta Mikelune");
     namesMap.put("PN", "Pitcairn uharteak");
-    namesMap.put("PS", "Palestinako Lurraldeak");
+    namesMap.put("PS", "Palestinar Lurralde Okupatuak");
     namesMap.put("PY", "Paraguai");
     namesMap.put("QO", "Mugaz kanpoko Ozeania");
     namesMap.put("RE", "Reunion");

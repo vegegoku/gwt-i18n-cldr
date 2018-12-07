@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_kl extends LocalizedNamesImpl {
         "VI",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "ZW",
         "AT",

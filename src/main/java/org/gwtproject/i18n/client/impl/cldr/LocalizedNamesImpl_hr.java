@@ -288,6 +288,8 @@ public class LocalizedNamesImpl_hr extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "EH",
         "CV",

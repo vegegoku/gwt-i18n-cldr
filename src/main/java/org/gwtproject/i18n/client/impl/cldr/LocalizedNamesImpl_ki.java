@@ -288,6 +288,8 @@ public class LocalizedNamesImpl_ki extends LocalizedNamesImpl {
         "VI",
         "VG",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZM",

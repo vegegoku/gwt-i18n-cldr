@@ -285,6 +285,8 @@ public class LocalizedNamesImpl_et extends LocalizedNamesImpl {
         "VN",
         "UN",
         "UM",
+        "XA",
+        "XB",
     };
   }
 

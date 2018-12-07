@@ -32,12 +32,13 @@ public class LocalizedNamesImpl_kk extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AU",
         "AT",
         "AX",
         "AL",
         "DZ",
-        "QO",
         "AS",
         "US",
         "AI",
@@ -236,6 +237,7 @@ public class LocalizedNamesImpl_kk extends LocalizedNamesImpl {
         "SO",
         "SD",
         "SR",
+        "QO",
         "SL",
         "HK",
         "TW",
@@ -309,7 +311,7 @@ public class LocalizedNamesImpl_kk extends LocalizedNamesImpl {
     namesMap.put("015", "Солтүстік Африка");
     namesMap.put("017", "Орталық Африка");
     namesMap.put("018", "Оңтүстік Африка");
-    namesMap.put("019", "Солтүстік және Оңтүстік Америка");
+    namesMap.put("019", "Америка");
     namesMap.put("021", "Солтүстік Америка (аймақ)");
     namesMap.put("029", "Кариб");
     namesMap.put("030", "Шығыс Азия");
@@ -523,7 +525,7 @@ public class LocalizedNamesImpl_kk extends LocalizedNamesImpl {
     namesMap.put("PW", "Палау");
     namesMap.put("PY", "Парагвай");
     namesMap.put("QA", "Катар");
-    namesMap.put("QO", "Алыс Океания");
+    namesMap.put("QO", "Сыртқы Океания");
     namesMap.put("RE", "Реюньон");
     namesMap.put("RO", "Румыния");
     namesMap.put("RS", "Сербия");

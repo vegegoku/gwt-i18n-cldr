@@ -64,6 +64,8 @@ public class LocalizedNamesImpl_zgh extends LocalizedNamesImpl {
         "TF",
         "UM",
         "UN",
+        "XA",
+        "XB",
         "XK",
         "PS",
         "AZ",

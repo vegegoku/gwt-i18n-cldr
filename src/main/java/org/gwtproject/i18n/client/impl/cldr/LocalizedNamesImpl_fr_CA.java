@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_fr_CA extends LocalizedNamesImpl_fr {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",
@@ -291,7 +293,12 @@ public class LocalizedNamesImpl_fr_CA extends LocalizedNamesImpl_fr {
   @Override
   protected void loadNameMap() {
     super.loadNameMap();
+    namesMap.put("030", "Asie orientale");
+    namesMap.put("039", "Europe méridionale");
+    namesMap.put("145", "Asie occidentale");
     namesMap.put("151", "Europe orientale");
+    namesMap.put("154", "Europe septentrionale");
+    namesMap.put("155", "Europe occidentale");
     namesMap.put("AC", "île de l’Ascension");
     namesMap.put("AX", "îles d’Åland");
     namesMap.put("BN", "Brunei");
@@ -315,7 +322,6 @@ public class LocalizedNamesImpl_fr_CA extends LocalizedNamesImpl_fr {
     namesMap.put("QO", "Océanie lointaine");
     namesMap.put("RE", "la Réunion");
     namesMap.put("SX", "Saint-Martin (Pays-Bas)");
-    namesMap.put("TK", "Tokelau");
     namesMap.put("TL", "Timor-Leste");
     namesMap.put("UM", "îles mineures éloignées des États-Unis");
     namesMap.put("VA", "Cité du Vatican");

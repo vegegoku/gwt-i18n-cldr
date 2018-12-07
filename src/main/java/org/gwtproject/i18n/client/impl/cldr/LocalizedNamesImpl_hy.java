@@ -25,6 +25,8 @@ public class LocalizedNamesImpl_hy extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "VI",
         "AZ",
         "AX",
@@ -354,7 +356,7 @@ public class LocalizedNamesImpl_hy extends LocalizedNamesImpl {
     namesMap.put("BO", "Բոլիվիա");
     namesMap.put("BQ", "Կարիբյան Նիդեռլանդներ");
     namesMap.put("BR", "Բրազիլիա");
-    namesMap.put("BS", "Բահամաներ");
+    namesMap.put("BS", "Բահամյան կղզիներ");
     namesMap.put("BT", "Բութան");
     namesMap.put("BV", "Բուվե կղզի");
     namesMap.put("BW", "Բոթսվանա");
@@ -452,7 +454,7 @@ public class LocalizedNamesImpl_hy extends LocalizedNamesImpl {
     namesMap.put("KP", "Հյուսիսային Կորեա");
     namesMap.put("KR", "Հարավային Կորեա");
     namesMap.put("KW", "Քուվեյթ");
-    namesMap.put("KY", "Կայման կղզիներ");
+    namesMap.put("KY", "Կայմանյան կղզիներ");
     namesMap.put("KZ", "Ղազախստան");
     namesMap.put("LA", "Լաոս");
     namesMap.put("LB", "Լիբանան");

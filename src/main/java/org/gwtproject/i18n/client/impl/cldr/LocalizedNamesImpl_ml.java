@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_ml extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AO",
         "AQ",
         "AF",
@@ -120,6 +122,7 @@ public class LocalizedNamesImpl_ml extends LocalizedNamesImpl {
         "TD",
         "JP",
         "JM",
+        "DJ",
         "GI",
         "JE",
         "GE",
@@ -148,7 +151,6 @@ public class LocalizedNamesImpl_ml extends LocalizedNamesImpl {
         "GS",
         "SS",
         "ZA",
-        "DJ",
         "QO",
         "NA",
         "NI",
@@ -327,6 +329,7 @@ public class LocalizedNamesImpl_ml extends LocalizedNamesImpl {
     namesMap.put("151", "കിഴക്കൻ യൂറോപ്പ്");
     namesMap.put("154", "വടക്കേ യൂറോപ്പ്");
     namesMap.put("155", "പശ്ചിമ യൂറോപ്പ്");
+    namesMap.put("202", "സബ്-സഹാറൻ ആഫ്രിക്ക");
     namesMap.put("419", "ലാറ്റിനമേരിക്ക");
     namesMap.put("AC", "അസൻഷൻ ദ്വീപ്");
     namesMap.put("AD", "അൻഡോറ");
@@ -388,7 +391,7 @@ public class LocalizedNamesImpl_ml extends LocalizedNamesImpl {
     namesMap.put("CZ", "ചെക്കിയ");
     namesMap.put("DE", "ജർമ്മനി");
     namesMap.put("DG", "ഡീഗോ ഗ്രാഷ്യ");
-    namesMap.put("DJ", "ദിജിബൗട്ടി");
+    namesMap.put("DJ", "ജിബൂത്തി");
     namesMap.put("DK", "ഡെൻമാർക്ക്");
     namesMap.put("DM", "ഡൊമിനിക്ക");
     namesMap.put("DO", "ഡൊമിനിക്കൻ റിപ്പബ്ലിക്ക്");

@@ -286,6 +286,8 @@ public class LocalizedNamesImpl_ca extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "CL",
         "CN",
         "CY",

@@ -25,6 +25,8 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "VI",
         "AU",
         "AT",
@@ -304,12 +306,12 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("018", "Өмнөд Африк тив");
     namesMap.put("019", "Америк");
     namesMap.put("021", "Хойд Америк тив");
-    namesMap.put("029", "Карибын");
+    namesMap.put("029", "Карибын тэнгис");
     namesMap.put("030", "Зүүн Ази");
     namesMap.put("034", "Өмнөд Ази");
     namesMap.put("035", "Зүүн өмнөд Ази");
     namesMap.put("039", "Өмнөд Европ");
-    namesMap.put("053", "Австралиази");
+    namesMap.put("053", "Австрали-Ази");
     namesMap.put("054", "Меланези");
     namesMap.put("057", "Микронезийн бүс");
     namesMap.put("061", "Полинези");
@@ -324,7 +326,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("419", "Латин Америк");
     namesMap.put("AC", "Асенсион арал");
     namesMap.put("AD", "Андорра");
-    namesMap.put("AE", "Арабын Нэгдсэн Эмират Улс");
+    namesMap.put("AE", "Арабын Нэгдсэн Эмирт Улс");
     namesMap.put("AF", "Афганистан");
     namesMap.put("AG", "Антигуа ба Барбуда");
     namesMap.put("AI", "Ангилья");
@@ -357,14 +359,14 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("BS", "Багамын арлууд");
     namesMap.put("BT", "Бутан");
     namesMap.put("BV", "Буве арал");
-    namesMap.put("BW", "Ботсвана");
+    namesMap.put("BW", "Ботсван");
     namesMap.put("BY", "Беларусь");
-    namesMap.put("BZ", "Белиз");
+    namesMap.put("BZ", "Белизе");
     namesMap.put("CA", "Канад");
     namesMap.put("CC", "Кокос (Кийлинг) арлууд");
     namesMap.put("CD", "Конго-Киншаса");
     namesMap.put("CF", "Төв Африкийн Бүгд Найрамдах Улс");
-    namesMap.put("CG", "Конго Браззавиль");
+    namesMap.put("CG", "Конго-Браззавиль");
     namesMap.put("CH", "Швейцарь");
     namesMap.put("CI", "Кот-д’Ивуар");
     namesMap.put("CK", "Күүкийн арлууд");
@@ -397,7 +399,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("ET", "Этиоп");
     namesMap.put("EU", "Европын Холбоо");
     namesMap.put("EZ", "Евро бүс");
-    namesMap.put("FI", "Финланд");
+    namesMap.put("FI", "Финлянд");
     namesMap.put("FJ", "Фижи");
     namesMap.put("FK", "Фолклендийн арлууд");
     namesMap.put("FM", "Микронези");
@@ -417,7 +419,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("GP", "Гваделуп");
     namesMap.put("GQ", "Экваторын Гвиней");
     namesMap.put("GR", "Грек");
-    namesMap.put("GS", "Өмнөд Жоржиа ба Өмнөд Сэндвичийн Арлууд");
+    namesMap.put("GS", "Өмнөд Жоржиа ба Өмнөд Сэндвичийн арлууд");
     namesMap.put("GT", "Гватемал");
     namesMap.put("GU", "Гуам");
     namesMap.put("GW", "Гвиней-Бисау");
@@ -482,7 +484,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("MR", "Мавритани");
     namesMap.put("MS", "Монтсеррат");
     namesMap.put("MT", "Мальта");
-    namesMap.put("MU", "Маврики");
+    namesMap.put("MU", "Маврикий");
     namesMap.put("MV", "Мальдив");
     namesMap.put("MW", "Малави");
     namesMap.put("MX", "Мексик");
@@ -511,7 +513,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("PM", "Сент-Пьер ба Микело");
     namesMap.put("PN", "Питкэрн арлууд");
     namesMap.put("PR", "Пуэрто-Рико");
-    namesMap.put("PS", "Палестины нутаг дэвсгэрүүд");
+    namesMap.put("PS", "Палестины нутаг дэвсгэр");
     namesMap.put("PT", "Португал");
     namesMap.put("PW", "Палау");
     namesMap.put("PY", "Парагвай");
@@ -538,7 +540,7 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("SO", "Сомали");
     namesMap.put("SR", "Суринам");
     namesMap.put("SS", "Өмнөд Судан");
-    namesMap.put("ST", "Сан-Томе Принсипи");
+    namesMap.put("ST", "Сан-Томе ба Принсипи");
     namesMap.put("SV", "Эль Сальвадор");
     namesMap.put("SX", "Синт Мартен");
     namesMap.put("SY", "Сири");
@@ -570,8 +572,8 @@ public class LocalizedNamesImpl_mn extends LocalizedNamesImpl {
     namesMap.put("VA", "Ватикан хот улс");
     namesMap.put("VC", "Сент-Винсент ба Гренадин");
     namesMap.put("VE", "Венесуэл");
-    namesMap.put("VG", "Британийн Виржиний Арлууд");
-    namesMap.put("VI", "АНУ-ын Виржиний Арлууд");
+    namesMap.put("VG", "Британийн Виржиний арлууд");
+    namesMap.put("VI", "АНУ-ын Виржиний арлууд");
     namesMap.put("VN", "Вьетнам");
     namesMap.put("VU", "Вануату");
     namesMap.put("WF", "Уоллис ба Футуна");

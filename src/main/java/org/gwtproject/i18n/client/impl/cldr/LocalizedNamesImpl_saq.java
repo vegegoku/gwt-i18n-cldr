@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_saq extends LocalizedNamesImpl {
         "VI",
         "VG",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

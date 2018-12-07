@@ -279,6 +279,8 @@ public class LocalizedNamesImpl_gv extends LocalizedNamesImpl {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

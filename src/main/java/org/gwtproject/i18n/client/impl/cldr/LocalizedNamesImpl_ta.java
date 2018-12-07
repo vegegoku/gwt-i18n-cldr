@@ -33,6 +33,8 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "FK",
         "FO",
         "FJ",
@@ -50,8 +52,8 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
         "DZ",
         "AL",
         "AC",
-        "AG",
         "AF",
+        "AG",
         "AX",
         "AT",
         "AU",
@@ -328,14 +330,14 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
     namesMap.put("151", "கிழக்கு ஐரோப்பா");
     namesMap.put("154", "வடக்கு ஐரோப்பா");
     namesMap.put("155", "மேற்கு ஐரோப்பா");
-    namesMap.put("202", "சப்-சஹாரன் ஆப்ரிக்கா");
+    namesMap.put("202", "துணை சஹாரா ஆப்பிரிக்கா");
     namesMap.put("419", "லத்தீன் அமெரிக்கா");
     namesMap.put("AC", "அஷன்ஷியன் தீவு");
     namesMap.put("AD", "அன்டோரா");
     namesMap.put("AE", "ஐக்கிய அரபு எமிரேட்ஸ்");
-    namesMap.put("AF", "ஆப்கானிஸ்தான்");
+    namesMap.put("AF", "ஆஃப்கானிஸ்தான்");
     namesMap.put("AG", "ஆண்டிகுவா மற்றும் பார்புடா");
-    namesMap.put("AI", "அங்குய்லா");
+    namesMap.put("AI", "அங்கியுலா");
     namesMap.put("AL", "அல்பேனியா");
     namesMap.put("AM", "அர்மேனியா");
     namesMap.put("AO", "அங்கோலா");
@@ -366,7 +368,7 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
     namesMap.put("BT", "பூடான்");
     namesMap.put("BV", "பொவேட் தீவுகள்");
     namesMap.put("BW", "போட்ஸ்வானா");
-    namesMap.put("BY", "பெலாரூஸ்");
+    namesMap.put("BY", "பெலாரஸ்");
     namesMap.put("BZ", "பெலிஸ்");
     namesMap.put("CA", "கனடா");
     namesMap.put("CC", "கோகோஸ் (கீலிங்) தீவுகள்");
@@ -499,14 +501,14 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
     namesMap.put("NA", "நமீபியா");
     namesMap.put("NC", "நியூ கேலிடோனியா");
     namesMap.put("NE", "நைஜர்");
-    namesMap.put("NF", "நார்ஃபோக் தீவுகள்");
+    namesMap.put("NF", "நார்ஃபோக் தீவு");
     namesMap.put("NG", "நைஜீரியா");
     namesMap.put("NI", "நிகரகுவா");
     namesMap.put("NL", "நெதர்லாந்து");
     namesMap.put("NO", "நார்வே");
     namesMap.put("NP", "நேபாளம்");
     namesMap.put("NR", "நௌரு");
-    namesMap.put("NU", "நியூ");
+    namesMap.put("NU", "நியுவே");
     namesMap.put("NZ", "நியூசிலாந்து");
     namesMap.put("OM", "ஓமன்");
     namesMap.put("PA", "பனாமா");
@@ -565,7 +567,7 @@ public class LocalizedNamesImpl_ta extends LocalizedNamesImpl {
     namesMap.put("TO", "டோங்கா");
     namesMap.put("TR", "துருக்கி");
     namesMap.put("TT", "டிரினிடாட் & டொபாகோ");
-    namesMap.put("TV", "துவாலூ");
+    namesMap.put("TV", "துவாலு");
     namesMap.put("TW", "தைவான்");
     namesMap.put("TZ", "தான்சானியா");
     namesMap.put("UA", "உக்ரைன்");

@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_fy extends LocalizedNamesImpl {
         "WF",
         "EH",
         "BY",
+        "XA",
+        "XB",
         "ID",
         "IS",
         "ZM",

@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_vun extends LocalizedNamesImpl {
         "VI",
         "VG",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

@@ -287,6 +287,8 @@ public class LocalizedNamesImpl_fi extends LocalizedNamesImpl {
         "RU",
         "VN",
         "EE",
+        "XA",
+        "XB",
         "UN",
         "US",
         "UM",

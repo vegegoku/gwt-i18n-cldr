@@ -98,7 +98,6 @@ public class LocalizedNamesImpl_kw extends LocalizedNamesImpl {
         "ER",
         "ES",
         "ET",
-        "EU",
         "IN",
         "EZ",
         "FI",
@@ -145,6 +144,7 @@ public class LocalizedNamesImpl_kw extends LocalizedNamesImpl {
         "JM",
         "JO",
         "KE",
+        "UN",
         "KG",
         "KH",
         "KI",
@@ -267,7 +267,7 @@ public class LocalizedNamesImpl_kw extends LocalizedNamesImpl {
         "UA",
         "UG",
         "UM",
-        "UN",
+        "EU",
         "UY",
         "UZ",
         "VA",
@@ -279,6 +279,8 @@ public class LocalizedNamesImpl_kw extends LocalizedNamesImpl {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",
@@ -291,13 +293,21 @@ public class LocalizedNamesImpl_kw extends LocalizedNamesImpl {
   @Override
   protected void loadNameMap() {
     super.loadNameMap();
+    namesMap.put("001", "An Bys");
+    namesMap.put("002", "Afrika");
+    namesMap.put("003", "Amerika Gledh");
+    namesMap.put("019", "An Amerikas");
+    namesMap.put("142", "Asi");
+    namesMap.put("150", "Europa");
     namesMap.put("BR", "Brasil");
     namesMap.put("DE", "Almayn");
+    namesMap.put("EU", "Unyans Europek");
     namesMap.put("FR", "Pow Frenk");
     namesMap.put("GB", "Rywvaneth Unys");
     namesMap.put("IN", "Eynda");
     namesMap.put("IT", "Itali");
     namesMap.put("RU", "Russi");
+    namesMap.put("UN", "Kenedhlow Unys");
     namesMap.put("US", "Statys Unys");
   }
 

@@ -272,6 +272,8 @@ public class LocalizedNamesImpl_bm extends LocalizedNamesImpl {
         "VN",
         "ZA",
         "KR",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JM",

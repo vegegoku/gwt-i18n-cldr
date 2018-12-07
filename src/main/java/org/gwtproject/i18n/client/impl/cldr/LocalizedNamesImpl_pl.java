@@ -71,7 +71,6 @@ public class LocalizedNamesImpl_pl extends LocalizedNamesImpl {
         "CL",
         "CN",
         "HR",
-        "CP",
         "CI",
         "CW",
         "CY",
@@ -276,6 +275,7 @@ public class LocalizedNamesImpl_pl extends LocalizedNamesImpl {
         "IT",
         "BV",
         "CX",
+        "CP",
         "IM",
         "SH",
         "AC",
@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_pl extends LocalizedNamesImpl {
         "FO",
         "SB",
         "ST",
+        "XA",
+        "XB",
         "ZM",
         "ZW",
         "AE",
@@ -361,7 +363,7 @@ public class LocalizedNamesImpl_pl extends LocalizedNamesImpl {
     namesMap.put("CM", "Kamerun");
     namesMap.put("CN", "Chiny");
     namesMap.put("CO", "Kolumbia");
-    namesMap.put("CP", "Clipperton");
+    namesMap.put("CP", "Wyspa Clippertona");
     namesMap.put("CR", "Kostaryka");
     namesMap.put("CU", "Kuba");
     namesMap.put("CV", "Republika Zielonego Przylądka");

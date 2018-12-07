@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_ka extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AU",
         "AT",
         "AF",
@@ -334,7 +336,7 @@ public class LocalizedNamesImpl_ka extends LocalizedNamesImpl {
     namesMap.put("AE", "არაბთა გაერთიანებული საამიროები");
     namesMap.put("AF", "ავღანეთი");
     namesMap.put("AG", "ანტიგუა და ბარბუდა");
-    namesMap.put("AI", "ანგვილა");
+    namesMap.put("AI", "ანგილია");
     namesMap.put("AL", "ალბანეთი");
     namesMap.put("AM", "სომხეთი");
     namesMap.put("AO", "ანგოლა");
@@ -429,7 +431,7 @@ public class LocalizedNamesImpl_ka extends LocalizedNamesImpl {
     namesMap.put("GU", "გუამი");
     namesMap.put("GW", "გვინეა-ბისაუ");
     namesMap.put("GY", "გაიანა");
-    namesMap.put("HK", "ჰონკონგის სპეციალური ადმინისტრაციული რეგიონი ჩინეთი");
+    namesMap.put("HK", "ჰონკონგის სპეციალური ადმინისტრაციული რეგიონი, ჩინეთი");
     namesMap.put("HM", "ჰერდი და მაკდონალდის კუნძულები");
     namesMap.put("HN", "ჰონდურასი");
     namesMap.put("HR", "ხორვატია");
@@ -468,7 +470,7 @@ public class LocalizedNamesImpl_ka extends LocalizedNamesImpl {
     namesMap.put("LK", "შრი-ლანკა");
     namesMap.put("LR", "ლიბერია");
     namesMap.put("LS", "ლესოთო");
-    namesMap.put("LT", "ლიტვა");
+    namesMap.put("LT", "ლიეტუვა");
     namesMap.put("LU", "ლუქსემბურგი");
     namesMap.put("LV", "ლატვია");
     namesMap.put("LY", "ლიბია");
@@ -483,7 +485,7 @@ public class LocalizedNamesImpl_ka extends LocalizedNamesImpl {
     namesMap.put("ML", "მალი");
     namesMap.put("MM", "მიანმარი (ბირმა)");
     namesMap.put("MN", "მონღოლეთი");
-    namesMap.put("MO", "მაკაოს სპეციალური ადმინისტრაციული რეგიონი ჩინეთი");
+    namesMap.put("MO", "მაკაოს სპეციალური ადმინისტრაციული რეგიონი, ჩინეთი");
     namesMap.put("MP", "ჩრდილოეთ მარიანას კუნძულები");
     namesMap.put("MQ", "მარტინიკა");
     namesMap.put("MR", "მავრიტანია");

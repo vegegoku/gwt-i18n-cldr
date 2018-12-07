@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_mgh extends LocalizedNamesImpl {
         "VG",
         "VI",
         "IQ",
+        "XA",
+        "XB",
         "XK",
         "YT",
     };

@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_sbp extends LocalizedNamesImpl {
         "PT",
         "RU",
         "AE",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

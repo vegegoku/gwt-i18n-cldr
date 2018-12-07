@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_de_CH extends LocalizedNamesImpl_de {
         "CX",
         "BY",
         "EH",
+        "XA",
+        "XB",
         "CF",
         "ZW",
         "CY",

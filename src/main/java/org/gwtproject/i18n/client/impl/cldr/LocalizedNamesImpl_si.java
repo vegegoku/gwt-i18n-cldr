@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_si extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "IE",
         "IM",
         "IS",
@@ -327,6 +329,7 @@ public class LocalizedNamesImpl_si extends LocalizedNamesImpl {
     namesMap.put("151", "නැගෙනහිර යුරෝපය");
     namesMap.put("154", "උතුරු යුරෝපය");
     namesMap.put("155", "බටහිර යුරෝපය");
+    namesMap.put("202", "උප-සහරානු අප්‍රිකාව");
     namesMap.put("419", "ලතින් ඇමෙරිකාව");
     namesMap.put("AC", "ඇසෙන්ෂන් දිවයින");
     namesMap.put("AD", "ඇන්ඩෝරාව");
@@ -339,7 +342,7 @@ public class LocalizedNamesImpl_si extends LocalizedNamesImpl {
     namesMap.put("AO", "ඇන්ගෝලාව");
     namesMap.put("AQ", "ඇන්ටාක්ටිකාව");
     namesMap.put("AR", "ආර්ජෙන්ටිනාව");
-    namesMap.put("AS", "ඇමරිකානු සැමෝවාව");
+    namesMap.put("AS", "ඇමරිකානු සැමෝවා");
     namesMap.put("AT", "ඔස්ට්‍රියාව");
     namesMap.put("AU", "ඕස්ට්‍රේලියාව");
     namesMap.put("AW", "අරූබා");
@@ -385,7 +388,7 @@ public class LocalizedNamesImpl_si extends LocalizedNamesImpl {
     namesMap.put("CW", "කුරකාවෝ");
     namesMap.put("CX", "ක්‍රිස්මස් දූපත");
     namesMap.put("CY", "සයිප්‍රසය");
-    namesMap.put("CZ", "චෙක් ජනරජය");
+    namesMap.put("CZ", "චෙචියාව");
     namesMap.put("DE", "ජර්මනිය");
     namesMap.put("DG", "දියාගෝ ගාර්සියා");
     namesMap.put("DJ", "ජිබුටි");

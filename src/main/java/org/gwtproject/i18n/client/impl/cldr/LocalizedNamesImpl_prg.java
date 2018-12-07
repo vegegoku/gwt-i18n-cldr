@@ -281,6 +281,8 @@ public class LocalizedNamesImpl_prg extends LocalizedNamesImpl {
         "IT",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "YE",
         "YT",
         "ZM",

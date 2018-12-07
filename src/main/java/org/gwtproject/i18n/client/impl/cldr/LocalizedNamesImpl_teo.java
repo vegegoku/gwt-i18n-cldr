@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_teo extends LocalizedNamesImpl {
         "VI",
         "VG",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

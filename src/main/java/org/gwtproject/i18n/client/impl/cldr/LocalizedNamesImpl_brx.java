@@ -37,6 +37,8 @@ public class LocalizedNamesImpl_brx extends LocalizedNamesImpl {
         "SX",
         "TA",
         "UN",
+        "XA",
+        "XB",
         "XK",
         "AO",
         "AQ",

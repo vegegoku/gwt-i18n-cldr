@@ -188,6 +188,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
         "YT",
         "MX",
         "IM",
+        "CF",
         "FM",
         "MD",
         "MC",
@@ -208,7 +209,6 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
         "NF",
         "NO",
         "OM",
-        "CF",
         "AF",
         "UZ",
         "PK",
@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
         "VE",
         "HU",
         "VN",
+        "XA",
+        "XB",
         "JM",
         "JP",
         "YE",
@@ -298,7 +300,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
   @Override
   protected void loadNameMap() {
     super.loadNameMap();
-    namesMap.put("001", "Dunýä");
+    namesMap.put("001", "Dünýä");
     namesMap.put("002", "Afrika");
     namesMap.put("003", "Demirgazyk Amerika");
     namesMap.put("005", "Günorta Amerika");
@@ -321,12 +323,13 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("057", "Mikroneziýa sebti");
     namesMap.put("061", "Polineziýa");
     namesMap.put("142", "Aziýa");
-    namesMap.put("143", "Orta Aziýa");
+    namesMap.put("143", "Merkezi Aziýa");
     namesMap.put("145", "Günbatar Aziýa");
     namesMap.put("150", "Ýewropa");
     namesMap.put("151", "Gündogar Ýewropa");
     namesMap.put("154", "Demirgazyk Ýewropa");
     namesMap.put("155", "Günbatar Ýewropa");
+    namesMap.put("202", "Saharadan aşakdaky Afrika");
     namesMap.put("419", "Latyn Amerikasy");
     namesMap.put("AC", "Beýgeliş adasy");
     namesMap.put("AE", "Birleşen Arap Emirlikleri");
@@ -342,7 +345,6 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("AX", "Aland adalary");
     namesMap.put("AZ", "Azerbaýjan");
     namesMap.put("BA", "Bosniýa we Gersegowina");
-    namesMap.put("BB", "Barbadow");
     namesMap.put("BD", "Bangladeş");
     namesMap.put("BE", "Belgiýa");
     namesMap.put("BF", "Burkina-Faso");
@@ -351,7 +353,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("BL", "Sen-Bartelemi");
     namesMap.put("BN", "Bruneý");
     namesMap.put("BO", "Boliwiýa");
-    namesMap.put("BQ", "Karib Niderlandy");
+    namesMap.put("BQ", "Karib Niderlandlary");
     namesMap.put("BR", "Braziliýa");
     namesMap.put("BS", "Bagama adalary");
     namesMap.put("BT", "Butan");
@@ -360,7 +362,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("CA", "Kanada");
     namesMap.put("CC", "Kokos (Kiling) adalary");
     namesMap.put("CD", "Kongo - Kinşasa");
-    namesMap.put("CF", "Orta Afrika Respublikasy");
+    namesMap.put("CF", "Merkezi Afrika Respublikasy");
     namesMap.put("CG", "Kongo - Brazzawil");
     namesMap.put("CH", "Şweýsariýa");
     namesMap.put("CI", "Kot-d’Iwuar");
@@ -393,8 +395,8 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("ES", "Ispaniýa");
     namesMap.put("ET", "Efiopiýa");
     namesMap.put("EU", "Ýewropa Bileleşigi");
-    namesMap.put("EZ", "Ýewro sebti");
-    namesMap.put("FI", "Finlandiýa");
+    namesMap.put("EZ", "Ýewro sebiti");
+    namesMap.put("FI", "Finlýandiýa");
     namesMap.put("FK", "Folklend adalary");
     namesMap.put("FM", "Mikroneziýa");
     namesMap.put("FO", "Farer adalary");
@@ -426,7 +428,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("IL", "Ysraýyl");
     namesMap.put("IM", "Men adasy");
     namesMap.put("IN", "Hindistan");
-    namesMap.put("IO", "Britaniýanyň Hint okeanyndaky territoriýalary");
+    namesMap.put("IO", "Britaniýanyň Hindi okeanyndaky territoriýalary");
     namesMap.put("IQ", "Yrak");
     namesMap.put("IR", "Eýran");
     namesMap.put("IS", "Islandiýa");
@@ -438,7 +440,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("KE", "Keniýa");
     namesMap.put("KG", "Gyrgyzystan");
     namesMap.put("KH", "Kamboja");
-    namesMap.put("KM", "Komor Adalary");
+    namesMap.put("KM", "Komor adalary");
     namesMap.put("KN", "Sent-Kits we Newis");
     namesMap.put("KP", "Demirgazyk Koreýa");
     namesMap.put("KR", "Günorta Koreýa");
@@ -479,7 +481,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("NF", "Norfolk adasy");
     namesMap.put("NG", "Nigeriýa");
     namesMap.put("NI", "Nikaragua");
-    namesMap.put("NL", "Niderlandiýa");
+    namesMap.put("NL", "Niderlandlar");
     namesMap.put("NO", "Norwegiýa");
     namesMap.put("NZ", "Täze Zelandiýa");
     namesMap.put("PF", "Fransuz Polineziýasy");
@@ -501,7 +503,7 @@ public class LocalizedNamesImpl_tk extends LocalizedNamesImpl {
     namesMap.put("RW", "Ruanda");
     namesMap.put("SA", "Saud Arabystany");
     namesMap.put("SB", "Solomon adalary");
-    namesMap.put("SC", "Seýşel Adalary");
+    namesMap.put("SC", "Seýşel adalary");
     namesMap.put("SE", "Şwesiýa");
     namesMap.put("SG", "Singapur");
     namesMap.put("SH", "Keramatly Ýelena adasy");

@@ -279,6 +279,8 @@ public class LocalizedNamesImpl_dua extends LocalizedNamesImpl {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

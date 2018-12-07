@@ -185,12 +185,12 @@ public class LocalizedNamesImpl_ha extends LocalizedNamesImpl {
         "MS",
         "MA",
         "MQ",
-        "EG",
         "MK",
         "YT",
         "ME",
         "MF",
         "FM",
+        "EG",
         "MO",
         "MC",
         "MR",
@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_ha extends LocalizedNamesImpl {
         "UN",
         "UZ",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "IO",
@@ -348,7 +350,7 @@ public class LocalizedNamesImpl_ha extends LocalizedNamesImpl {
     namesMap.put("DZ", "Aljeriya");
     namesMap.put("EC", "Ekwador");
     namesMap.put("EE", "Estoniya");
-    namesMap.put("EG", "Masar, Misira");
+    namesMap.put("EG", "Misira");
     namesMap.put("ER", "Eritireya");
     namesMap.put("ES", "Sipen");
     namesMap.put("ET", "Habasha");

@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_as extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AT",
         "AU",
         "IS",

@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_sk extends LocalizedNamesImpl {
         "VN",
         "TL",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "EH",
         "ZW",

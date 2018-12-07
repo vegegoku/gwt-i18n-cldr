@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_th extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "GR",
         "GL",
         "GU",
@@ -251,8 +253,8 @@ public class LocalizedNamesImpl_th extends LocalizedNamesImpl {
         "FK",
         "FO",
         "MH",
-        "VI",
         "UM",
+        "VI",
         "AX",
         "AS",
         "AU",
@@ -578,7 +580,7 @@ public class LocalizedNamesImpl_th extends LocalizedNamesImpl {
     namesMap.put("VC", "เซนต์วินเซนต์และเกรนาดีนส์");
     namesMap.put("VE", "เวเนซุเอลา");
     namesMap.put("VG", "หมู่เกาะบริติชเวอร์จิน");
-    namesMap.put("VI", "หมู่เกาะยูเอสเวอร์จิน");
+    namesMap.put("VI", "หมู่เกาะเวอร์จินของสหรัฐอเมริกา");
     namesMap.put("VN", "เวียดนาม");
     namesMap.put("VU", "วานูอาตู");
     namesMap.put("WF", "วาลลิสและฟุตูนา");

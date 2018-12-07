@@ -45,6 +45,8 @@ public class LocalizedNamesImpl_tt extends LocalizedNamesImpl {
         "TA",
         "UN",
         "VA",
+        "XA",
+        "XB",
         "US",
         "VI",
         "UM",

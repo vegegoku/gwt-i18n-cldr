@@ -285,6 +285,8 @@ public class LocalizedNamesImpl_pa_Arab extends LocalizedNamesImpl_pa {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

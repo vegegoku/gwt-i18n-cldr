@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_se_FI extends LocalizedNamesImpl_se {
         "BQ",
         "SX",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "ZW",
     };

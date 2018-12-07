@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_cs extends LocalizedNamesImpl {
         "QO",
         "TL",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "EH",
         "ZW",

@@ -32,11 +32,12 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "IE",
         "IS",
         "CI",
         "AZ",
-        "BE",
         "AU",
         "AT",
         "US",
@@ -91,6 +92,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
         "BV",
         "BW",
         "QO",
+        "BE",
         "BZ",
         "BJ",
         "BY",
@@ -116,7 +118,6 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
         "RE",
         "ZW",
         "ZM",
-        "CH",
         "ST",
         "CY",
         "RS",
@@ -126,6 +127,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
         "SI",
         "WS",
         "SX",
+        "CH",
         "SE",
         "SZ",
         "SJ",
@@ -318,7 +320,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
     namesMap.put("039", "ڏکڻ يورپ");
     namesMap.put("053", "آسٽریلیشیا");
     namesMap.put("054", "میلانیشیا");
-    namesMap.put("057", "مائکرونیشیائي");
+    namesMap.put("057", "مائڪرونيشائي خطو");
     namesMap.put("061", "پولینیشیا");
     namesMap.put("142", "ايشيا");
     namesMap.put("143", "وچ ايشيا");
@@ -326,8 +328,8 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
     namesMap.put("150", "يورپ");
     namesMap.put("151", "اوڀر يورپ");
     namesMap.put("154", "اترين يورپ");
-    namesMap.put("155", "اولهندي يورپ");
-    namesMap.put("202", "سب سهارا آفريڪا");
+    namesMap.put("155", "اولهه يورپ");
+    namesMap.put("202", "سب-سهارا آفريڪا");
     namesMap.put("419", "لاطيني آمريڪا");
     namesMap.put("AC", "طلوع ٻيٽ");
     namesMap.put("AD", "اندورا");
@@ -349,7 +351,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
     namesMap.put("BA", "بوسنیا اور هرزیگوینا");
     namesMap.put("BB", "باربڊوس");
     namesMap.put("BD", "بنگلاديش");
-    namesMap.put("BE", "آسٽريا");
+    namesMap.put("BE", "بيلجيم");
     namesMap.put("BF", "برڪينا فاسو");
     namesMap.put("BG", "بلغاريا");
     namesMap.put("BH", "بحرين");
@@ -372,7 +374,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
     namesMap.put("CD", "ڪانگو -ڪنشاسا");
     namesMap.put("CF", "وچ آفريقي جمهوريه");
     namesMap.put("CG", "ڪانگو - برازاویل");
-    namesMap.put("CH", "سئيٽرزلينڊ");
+    namesMap.put("CH", "سوئزرلينڊ");
     namesMap.put("CI", "آئيوري ڪنارو");
     namesMap.put("CK", "ڪوڪ ٻيٽ");
     namesMap.put("CL", "چلي");
@@ -518,7 +520,7 @@ public class LocalizedNamesImpl_sd extends LocalizedNamesImpl {
     namesMap.put("PM", "سینٽ پیئر و میڪوئیلون");
     namesMap.put("PN", "پٽڪئرن ٻيٽ");
     namesMap.put("PR", "پيوئرٽو ريڪو");
-    namesMap.put("PS", "فلسطینی");
+    namesMap.put("PS", "فلسطيني حدون");
     namesMap.put("PT", "پرتگال");
     namesMap.put("PW", "پلائو");
     namesMap.put("PY", "پيراگوءِ");

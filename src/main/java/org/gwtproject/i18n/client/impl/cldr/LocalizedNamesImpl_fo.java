@@ -285,6 +285,8 @@ public class LocalizedNamesImpl_fo extends LocalizedNamesImpl {
         "EH",
         "VN",
         "WF",
+        "XA",
+        "XB",
     };
   }
 

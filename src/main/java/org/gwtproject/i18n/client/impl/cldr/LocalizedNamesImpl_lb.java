@@ -283,6 +283,8 @@ public class LocalizedNamesImpl_lb extends LocalizedNamesImpl {
         "BY",
         "WF",
         "EH",
+        "XA",
+        "XB",
         "CF",
         "CY",
     };

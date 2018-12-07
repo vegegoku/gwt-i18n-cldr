@@ -275,6 +275,8 @@ public class LocalizedNamesImpl_shi_Latn extends LocalizedNamesImpl_shi {
         "UZ",
         "UG",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZM",

@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "UG",
         "UZ",
         "AT",
@@ -51,7 +53,6 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
         "TC",
         "MP",
         "MH",
-        "NF",
         "SC",
         "FO",
         "FK",
@@ -97,6 +98,7 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
         "BB",
         "BN",
         "BR",
+        "GB",
         "BM",
         "GS",
         "DJ",
@@ -135,6 +137,7 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
         "IC",
         "BQ",
         "IM",
+        "NF",
         "CP",
         "IN",
         "VA",
@@ -144,7 +147,6 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
         "HN",
         "IO",
         "TF",
-        "GB",
         "PH",
         "DO",
         "CF",
@@ -411,7 +413,7 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
     namesMap.put("FO", "איי פארו");
     namesMap.put("FR", "צרפת");
     namesMap.put("GA", "גבון");
-    namesMap.put("GB", "הממלכה המאוחדת");
+    namesMap.put("GB", "בריטניה");
     namesMap.put("GD", "גרנדה");
     namesMap.put("GE", "גאורגיה");
     namesMap.put("GF", "גיאנה הצרפתית");
@@ -498,7 +500,7 @@ public class LocalizedNamesImpl_he extends LocalizedNamesImpl {
     namesMap.put("NA", "נמיביה");
     namesMap.put("NC", "קלדוניה החדשה");
     namesMap.put("NE", "ניז׳ר");
-    namesMap.put("NF", "איי נורפוק");
+    namesMap.put("NF", "האי נורפוק");
     namesMap.put("NG", "ניגריה");
     namesMap.put("NI", "ניקרגואה");
     namesMap.put("NL", "הולנד");

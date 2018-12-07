@@ -173,7 +173,6 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
         "RO",
         "RW",
         "SV",
-        "SJ",
         "WS",
         "AS",
         "KN",
@@ -203,6 +202,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
         "SR",
         "SY",
         "SA",
+        "SJ",
         "SZ",
         "SE",
         "CH",
@@ -229,7 +229,6 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
         "FO",
         "GS",
         "KY",
-        "CX",
         "CK",
         "CC",
         "MH",
@@ -242,6 +241,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
         "AC",
         "CP",
         "IM",
+        "CX",
         "RE",
         "QO",
         "UN",
@@ -275,6 +275,8 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
         "VI",
         "WF",
         "US",
+        "XA",
+        "XB",
         "ZM",
         "NZ",
         "ZW",
@@ -372,7 +374,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
     namesMap.put("CU", "Kuba");
     namesMap.put("CV", "Tigzirin n yixef azegzaw");
     namesMap.put("CW", "Kuṛaṣaw");
-    namesMap.put("CX", "Tigzirin n Krsitmas");
+    namesMap.put("CX", "Tigzrin n Kristmaṣ");
     namesMap.put("CY", "Cipr");
     namesMap.put("CZ", "Čček");
     namesMap.put("DE", "Lalman");
@@ -390,7 +392,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
     namesMap.put("ES", "Spanya");
     namesMap.put("ET", "Utyupi");
     namesMap.put("EU", "Tiddukla n Turuft");
-    namesMap.put("EZ", "Tamnaṭ n Turuft");
+    namesMap.put("EZ", "Tamnaḍt n Turuft");
     namesMap.put("FI", "Finlund");
     namesMap.put("FK", "Tigzirin n Falkland");
     namesMap.put("FM", "Mikrunizya");
@@ -514,7 +516,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
     namesMap.put("SG", "Singafur");
     namesMap.put("SH", "Sant Ilina");
     namesMap.put("SI", "Sluvinya");
-    namesMap.put("SJ", "Salvard d Jan Mayen");
+    namesMap.put("SJ", "Svalvard d Jan Mayen");
     namesMap.put("SK", "Sluvakya");
     namesMap.put("SL", "Sira Lyun");
     namesMap.put("SM", "San Marinu");
@@ -565,7 +567,7 @@ public class LocalizedNamesImpl_kab extends LocalizedNamesImpl {
     namesMap.put("ZA", "Tafriqt Wadda");
     namesMap.put("ZM", "Zambya");
     namesMap.put("ZW", "Zimbabwi");
-    namesMap.put("ZZ", "Timanḍin tirussinin");
+    namesMap.put("ZZ", "Timnaḍin Tirussinin");
   }
 
 }

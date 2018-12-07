@@ -269,6 +269,8 @@ public class LocalizedNamesImpl_lrc extends LocalizedNamesImpl {
         "VU",
         "WF",
         "WS",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "YT",

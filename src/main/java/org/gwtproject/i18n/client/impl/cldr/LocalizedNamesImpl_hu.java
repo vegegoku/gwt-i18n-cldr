@@ -289,6 +289,8 @@ public class LocalizedNamesImpl_hu extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "ZM",
         "ZW",
         "CV",
@@ -389,7 +391,7 @@ public class LocalizedNamesImpl_hu extends LocalizedNamesImpl {
     namesMap.put("FJ", "Fidzsi");
     namesMap.put("FK", "Falkland-szigetek");
     namesMap.put("FM", "Mikronézia");
-    namesMap.put("FO", "Feröer-szigetek");
+    namesMap.put("FO", "Feröer szigetek");
     namesMap.put("FR", "Franciaország");
     namesMap.put("GB", "Egyesült Királyság");
     namesMap.put("GE", "Grúzia");
@@ -513,6 +515,7 @@ public class LocalizedNamesImpl_hu extends LocalizedNamesImpl {
     namesMap.put("VC", "Saint Vincent és a Grenadine-szigetek");
     namesMap.put("VG", "Brit Virgin-szigetek");
     namesMap.put("VI", "Amerikai Virgin-szigetek");
+    namesMap.put("VN", "Vietnám");
     namesMap.put("WF", "Wallis és Futuna");
     namesMap.put("WS", "Szamoa");
     namesMap.put("XK", "Koszovó");

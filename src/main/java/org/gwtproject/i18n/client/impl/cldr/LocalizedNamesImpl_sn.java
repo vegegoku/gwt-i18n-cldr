@@ -278,6 +278,8 @@ public class LocalizedNamesImpl_sn extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "ZM",

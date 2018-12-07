@@ -284,6 +284,8 @@ public class LocalizedNamesImpl_bez extends LocalizedNamesImpl {
         "PS",
         "UM",
         "UN",
+        "XA",
+        "XB",
         "XK",
     };
   }

@@ -277,6 +277,8 @@ public class LocalizedNamesImpl_bas extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "JO",

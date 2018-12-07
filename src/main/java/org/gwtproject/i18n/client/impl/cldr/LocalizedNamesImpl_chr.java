@@ -27,6 +27,8 @@ public class LocalizedNamesImpl_chr extends LocalizedNamesImpl {
     return new String[] {
         "UM",
         "VI",
+        "XA",
+        "XB",
         "AM",
         "AL",
         "DZ",
@@ -232,7 +234,6 @@ public class LocalizedNamesImpl_chr extends LocalizedNamesImpl {
         "CN",
         "CX",
         "TW",
-        "TO",
         "TJ",
         "TH",
         "TZ",
@@ -243,6 +244,7 @@ public class LocalizedNamesImpl_chr extends LocalizedNamesImpl {
         "TG",
         "DM",
         "DO",
+        "TO",
         "TN",
         "TV",
         "TM",
@@ -554,7 +556,7 @@ public class LocalizedNamesImpl_chr extends LocalizedNamesImpl {
     namesMap.put("TL", "ᏘᎼᎵ-ᎴᏍᏖ");
     namesMap.put("TM", "ᏛᎵᎩᎺᏂᏍᏔᏂ");
     namesMap.put("TN", "ᏚᏂᏏᏍᎠ");
-    namesMap.put("TO", "ᏔᏂᎪ");
+    namesMap.put("TO", "ᏙᎾᎦ");
     namesMap.put("TR", "ᎬᏃ");
     namesMap.put("TT", "ᏟᏂᏕᏗ ᎠᎴ ᏙᏆᎪ");
     namesMap.put("TV", "ᏚᏩᎷ");

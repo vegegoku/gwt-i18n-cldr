@@ -286,6 +286,8 @@ public class LocalizedNamesImpl_id extends LocalizedNamesImpl {
         "IO",
         "TF",
         "PS",
+        "XA",
+        "XB",
         "YE",
         "JO",
         "GR",

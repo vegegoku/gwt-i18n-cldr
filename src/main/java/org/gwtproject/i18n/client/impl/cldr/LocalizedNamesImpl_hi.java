@@ -32,6 +32,8 @@ public class LocalizedNamesImpl_hi extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AO",
         "AQ",
         "AZ",
@@ -125,6 +127,7 @@ public class LocalizedNamesImpl_hi extends LocalizedNamesImpl {
         "TO",
         "TG",
         "TN",
+        "TA",
         "DG",
         "DK",
         "DO",
@@ -139,7 +142,6 @@ public class LocalizedNamesImpl_hi extends LocalizedNamesImpl {
         "TV",
         "TK",
         "TT",
-        "TA",
         "TH",
         "ZA",
         "KR",
@@ -550,7 +552,7 @@ public class LocalizedNamesImpl_hi extends LocalizedNamesImpl {
     namesMap.put("SX", "सिंट मार्टिन");
     namesMap.put("SY", "सीरिया");
     namesMap.put("SZ", "स्वाज़ीलैंड");
-    namesMap.put("TA", "त्रिस्टान डा कुना");
+    namesMap.put("TA", "ट्रिस्टन दा कुना");
     namesMap.put("TC", "तुर्क और कैकोज़ द्वीपसमूह");
     namesMap.put("TD", "चाड");
     namesMap.put("TF", "फ़्रांसीसी दक्षिणी क्षेत्र");

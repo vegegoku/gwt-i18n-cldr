@@ -287,6 +287,8 @@ public class LocalizedNamesImpl_qu extends LocalizedNamesImpl {
         "VG",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "DJ",

@@ -26,6 +26,8 @@ public class LocalizedNamesImpl_ccp extends LocalizedNamesImpl {
   public String[] loadSortedRegionCodes() {
     return new String[] {
         "EZ",
+        "XA",
+        "XB",
         "QO",
         "AU",
         "AZ",

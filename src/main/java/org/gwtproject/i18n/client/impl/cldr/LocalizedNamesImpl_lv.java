@@ -34,6 +34,7 @@ public class LocalizedNamesImpl_lv extends LocalizedNamesImpl {
         "AO",
         "AQ",
         "AG",
+        "GB",
         "AE",
         "UN",
         "AR",
@@ -166,7 +167,6 @@ public class LocalizedNamesImpl_lv extends LocalizedNamesImpl {
         "LB",
         "LR",
         "LY",
-        "GB",
         "LT",
         "LI",
         "LU",
@@ -278,6 +278,8 @@ public class LocalizedNamesImpl_lv extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "SB",
         "ZM",
         "KP",
@@ -402,7 +404,7 @@ public class LocalizedNamesImpl_lv extends LocalizedNamesImpl {
     namesMap.put("FO", "Fēru salas");
     namesMap.put("FR", "Francija");
     namesMap.put("GA", "Gabona");
-    namesMap.put("GB", "Lielbritānija");
+    namesMap.put("GB", "Apvienotā Karaliste");
     namesMap.put("GD", "Grenāda");
     namesMap.put("GE", "Gruzija");
     namesMap.put("GF", "Francijas Gviāna");

@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_wae extends LocalizedNamesImpl {
         "EH",
         "CX",
         "BY",
+        "XA",
+        "XB",
         "XK",
         "CF",
         "CY",

@@ -280,6 +280,8 @@ public class LocalizedNamesImpl_naq extends LocalizedNamesImpl {
         "VE",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "GR",
         "YE",

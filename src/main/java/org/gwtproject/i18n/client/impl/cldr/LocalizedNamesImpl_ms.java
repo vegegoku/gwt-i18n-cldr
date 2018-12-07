@@ -232,7 +232,6 @@ public class LocalizedNamesImpl_ms extends LocalizedNamesImpl {
         "RU",
         "RW",
         "EH",
-        "BL",
         "SH",
         "KN",
         "LC",
@@ -254,6 +253,7 @@ public class LocalizedNamesImpl_ms extends LocalizedNamesImpl {
         "SI",
         "SO",
         "LK",
+        "BL",
         "SD",
         "SS",
         "SR",
@@ -288,6 +288,8 @@ public class LocalizedNamesImpl_ms extends LocalizedNamesImpl {
         "IO",
         "PS",
         "TF",
+        "XA",
+        "XB",
         "YE",
         "ZM",
         "ZW",
@@ -331,7 +333,7 @@ public class LocalizedNamesImpl_ms extends LocalizedNamesImpl {
     namesMap.put("AS", "Samoa Amerika");
     namesMap.put("AX", "Kepulauan Aland");
     namesMap.put("BA", "Bosnia dan Herzegovina");
-    namesMap.put("BL", "Saint Barthélemy");
+    namesMap.put("BL", "St. Barthelemy");
     namesMap.put("BQ", "Belanda Caribbean");
     namesMap.put("BV", "Pulau Bouvet");
     namesMap.put("CA", "Kanada");

@@ -27,6 +27,8 @@ public class LocalizedNamesImpl_dz extends LocalizedNamesImpl {
     return new String[] {
         "EZ",
         "UN",
+        "XA",
+        "XB",
         "XK",
         "QA",
         "IC",

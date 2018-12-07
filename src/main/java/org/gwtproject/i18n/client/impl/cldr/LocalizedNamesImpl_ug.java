@@ -34,6 +34,8 @@ public class LocalizedNamesImpl_ug extends LocalizedNamesImpl {
     return new String[] {
         "EZ",
         "UN",
+        "XA",
+        "XB",
         "AR",
         "AW",
         "AC",

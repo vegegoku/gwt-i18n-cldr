@@ -282,6 +282,8 @@ public class LocalizedNamesImpl_dsb extends LocalizedNamesImpl {
         "QO",
         "HK",
         "MO",
+        "XA",
+        "XB",
         "AE",
         "GB",
         "US",

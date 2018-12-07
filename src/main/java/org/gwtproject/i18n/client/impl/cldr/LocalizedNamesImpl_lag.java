@@ -270,6 +270,8 @@ public class LocalizedNamesImpl_lag extends LocalizedNamesImpl {
         "VG",
         "MP",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "IO",

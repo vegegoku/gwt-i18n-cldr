@@ -286,6 +286,8 @@ public class LocalizedNamesImpl_nb extends LocalizedNamesImpl {
         "EH",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "QO",
         "ZM",
         "ZW",
@@ -414,7 +416,7 @@ public class LocalizedNamesImpl_nb extends LocalizedNamesImpl {
     namesMap.put("PH", "Filippinene");
     namesMap.put("PL", "Polen");
     namesMap.put("PM", "Saint-Pierre-et-Miquelon");
-    namesMap.put("PN", "Pitcairn");
+    namesMap.put("PN", "Pitcairnøyene");
     namesMap.put("PS", "Det palestinske området");
     namesMap.put("QO", "Ytre Oseania");
     namesMap.put("RU", "Russland");

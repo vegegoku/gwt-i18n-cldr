@@ -275,6 +275,8 @@ public class LocalizedNamesImpl_ksh extends LocalizedNamesImpl {
         "WF",
         "EH",
         "BY",
+        "XA",
+        "XB",
         "EA",
         "KN",
         "SX",

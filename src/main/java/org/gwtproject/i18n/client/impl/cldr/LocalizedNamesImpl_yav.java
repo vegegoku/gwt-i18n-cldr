@@ -278,6 +278,8 @@ public class LocalizedNamesImpl_yav extends LocalizedNamesImpl {
         "UN",
         "UZ",
         "WF",
+        "XA",
+        "XB",
         "XK",
         "YE",
         "HN",

@@ -285,6 +285,8 @@ public class LocalizedNamesImpl_da extends LocalizedNamesImpl {
         "EH",
         "VN",
         "WF",
+        "XA",
+        "XB",
         "QO",
         "YE",
         "ZM",
@@ -309,7 +311,7 @@ public class LocalizedNamesImpl_da extends LocalizedNamesImpl {
     namesMap.put("015", "Nordafrika");
     namesMap.put("017", "Centralafrika");
     namesMap.put("018", "Det sydlige Afrika");
-    namesMap.put("019", "Amerika");
+    namesMap.put("019", "Nord-, Mellem- og Sydamerika");
     namesMap.put("021", "Det nordlige Amerika");
     namesMap.put("029", "Caribien");
     namesMap.put("030", "Østasien");
@@ -327,7 +329,7 @@ public class LocalizedNamesImpl_da extends LocalizedNamesImpl {
     namesMap.put("151", "Østeuropa");
     namesMap.put("154", "Nordeuropa");
     namesMap.put("155", "Vesteuropa");
-    namesMap.put("202", "Afrika syd for Sahara");
+    namesMap.put("202", "Subsaharisk Afrika");
     namesMap.put("419", "Latinamerika");
     namesMap.put("AC", "Ascensionøen");
     namesMap.put("AE", "De Forenede Arabiske Emirater");
@@ -447,7 +449,7 @@ public class LocalizedNamesImpl_da extends LocalizedNamesImpl {
     namesMap.put("SY", "Syrien");
     namesMap.put("TC", "Turks- og Caicosøerne");
     namesMap.put("TD", "Tchad");
-    namesMap.put("TF", "De franske besiddelser i Det Sydlige Indiske Ocean");
+    namesMap.put("TF", "De Franske Besiddelser i Det Sydlige Indiske Ocean");
     namesMap.put("TJ", "Tadsjikistan");
     namesMap.put("TN", "Tunesien");
     namesMap.put("TR", "Tyrkiet");

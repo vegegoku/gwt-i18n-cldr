@@ -33,6 +33,8 @@ public class LocalizedNamesImpl_bn extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AT",
         "AU",
         "AO",
@@ -220,6 +222,7 @@ public class LocalizedNamesImpl_bn extends LocalizedNamesImpl {
         "ME",
         "MR",
         "MU",
+        "MD",
         "FM",
         "MG",
         "MM",
@@ -238,7 +241,6 @@ public class LocalizedNamesImpl_bn extends LocalizedNamesImpl {
         "MZ",
         "MC",
         "MA",
-        "MD",
         "MO",
         "MK",
         "GB",
@@ -475,7 +477,7 @@ public class LocalizedNamesImpl_bn extends LocalizedNamesImpl {
     namesMap.put("LY", "লিবিয়া");
     namesMap.put("MA", "মোরক্কো");
     namesMap.put("MC", "মোনাকো");
-    namesMap.put("MD", "মোল্দাভিয়া");
+    namesMap.put("MD", "মলডোভা");
     namesMap.put("ME", "মন্টিনিগ্রো");
     namesMap.put("MF", "সেন্ট মার্টিন");
     namesMap.put("MG", "মাদাগাস্কার");

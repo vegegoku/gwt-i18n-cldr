@@ -25,6 +25,8 @@ public class LocalizedNamesImpl_kok extends LocalizedNamesImpl {
   @Override
   public String[] loadSortedRegionCodes() {
     return new String[] {
+        "XA",
+        "XB",
         "AI",
         "AO",
         "AQ",
@@ -320,6 +322,7 @@ public class LocalizedNamesImpl_kok extends LocalizedNamesImpl {
     namesMap.put("151", "उदेंत येवरोप");
     namesMap.put("154", "उत्तर येवरोप");
     namesMap.put("155", "अस्तंत येवरोप");
+    namesMap.put("202", "उप-सहाराई आफ्रिका");
     namesMap.put("419", "लॅटीन अमेरिका");
     namesMap.put("AC", "असेशन आयलँड");
     namesMap.put("AD", "अंडोरा");
