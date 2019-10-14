@@ -16,7 +16,6 @@
 package org.gwtproject.i18n.client.impl.cldr;
 
 import org.gwtproject.i18n.client.DefaultLocalizedNames;
-import org.gwtproject.i18n.shared.Localizable;
 
 import java.util.HashMap;
 
@@ -24,8 +23,7 @@ import java.util.HashMap;
  * A base class for client-side implementations of the {@link
  * org.gwtproject.i18n.client.LocalizedNames} interface.
  */
-public abstract class LocalizedNamesImplBase extends DefaultLocalizedNames
-    implements Localizable {
+public abstract class LocalizedNamesImplBase extends DefaultLocalizedNames {
   
   /**
    * Add all entries in {@code override} to the original map, replacing

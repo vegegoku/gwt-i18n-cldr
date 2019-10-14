@@ -16,12 +16,10 @@
 package org.gwtproject.i18n.shared.impl.cldr;
 
 import org.gwtproject.i18n.shared.DefaultDateTimeFormatInfo;
-import org.gwtproject.i18n.shared.Localizable;
 
 /**
  * {@link org.gwtproject.i18n.shared.DateTimeFormatInfo} implementation based on
  * Unicode CLDR data.
  */
-public class DateTimeFormatInfoImpl extends DefaultDateTimeFormatInfo
-    implements Localizable {
+public class DateTimeFormatInfoImpl extends DefaultDateTimeFormatInfo {
 }
