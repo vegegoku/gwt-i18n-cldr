@@ -626,7 +626,7 @@ public class CurrencyList_chr_US extends CurrencyList_chr {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᎡᎳᏈ ᎢᎹᎵᏘᏏ ᎠᏕᎳ");
     result.put("AFN","ᎠᏫᎨᏂᏍᏖᏂ ᎠᏕᎳ");
     result.put("ALL","ᎠᎵᏇᏂᏯ ᎠᏕᎳ");

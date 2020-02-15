@@ -626,7 +626,7 @@ public class CurrencyList_nds_NL extends CurrencyList_nds {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AUD","Austraalsch Dollar");
     result.put("BRL","Brasiliaansch Real");
     result.put("CAD","Kanaadsch Dollar");

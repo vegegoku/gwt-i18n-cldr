@@ -626,7 +626,7 @@ public class CurrencyList_az_Cyrl_AZ extends CurrencyList_az_Cyrl {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AZN","манат");
     return result;
   }

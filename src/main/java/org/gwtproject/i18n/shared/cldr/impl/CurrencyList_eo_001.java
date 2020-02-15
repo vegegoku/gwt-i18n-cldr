@@ -626,7 +626,7 @@ public class CurrencyList_eo_001 extends CurrencyList_eo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AUD","Aŭstralia dolaro");
     result.put("BRL","Brazila realo");
     result.put("CAD","Kanada dolaro");

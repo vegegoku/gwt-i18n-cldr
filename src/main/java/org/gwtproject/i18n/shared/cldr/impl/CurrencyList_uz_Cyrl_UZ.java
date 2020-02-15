@@ -626,7 +626,7 @@ public class CurrencyList_uz_Cyrl_UZ extends CurrencyList_uz_Cyrl {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ANG","Голланд Антил гульдени");
     result.put("ARS","Аргентина песоси");
     result.put("AWG","Аруба флорини");

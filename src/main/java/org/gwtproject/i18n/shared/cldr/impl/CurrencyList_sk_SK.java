@@ -626,7 +626,7 @@ public class CurrencyList_sk_SK extends CurrencyList_sk {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","andorrská peseta");
     result.put("AED","SAE dirham");
     result.put("AFA","afganský afgání (1927 – 2002)");

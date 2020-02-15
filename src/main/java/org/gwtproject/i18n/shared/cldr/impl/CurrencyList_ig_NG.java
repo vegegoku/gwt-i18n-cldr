@@ -626,7 +626,7 @@ public class CurrencyList_ig_NG extends CurrencyList_ig {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("CVE","Escudo Caboverdiano");
     result.put("NGN","Naịra");
     return result;

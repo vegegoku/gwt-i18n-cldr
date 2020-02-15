@@ -626,7 +626,7 @@ public class CurrencyList_kab_DZ extends CurrencyList_kab {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Apisetas Anduran");
     result.put("AED","Adirham n Tgeldunin Taɛrabin Yedduklen");
     result.put("AFA","Afɣani (1927–2002)");

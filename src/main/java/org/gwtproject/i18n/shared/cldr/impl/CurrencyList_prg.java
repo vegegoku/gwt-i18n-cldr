@@ -626,7 +626,7 @@ public class CurrencyList_prg extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Brazīlijas reals");
     result.put("CNY","Kīnas juāns");
     result.put("EUR","eurō");

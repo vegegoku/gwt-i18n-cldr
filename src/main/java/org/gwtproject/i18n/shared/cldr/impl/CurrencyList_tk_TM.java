@@ -626,7 +626,7 @@ public class CurrencyList_tk_TM extends CurrencyList_tk {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","BAE dirhemi");
     result.put("AFN","Owgan afganisi");
     result.put("ALL","Alban leki");

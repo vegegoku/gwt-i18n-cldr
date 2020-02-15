@@ -626,7 +626,7 @@ public class CurrencyList_mua extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Solai Arabiya");
     result.put("AOA","solai Angola");
     result.put("AUD","solai Australya");

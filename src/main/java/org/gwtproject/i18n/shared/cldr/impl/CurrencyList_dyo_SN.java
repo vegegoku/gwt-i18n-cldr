@@ -626,7 +626,7 @@ public class CurrencyList_dyo_SN extends CurrencyList_dyo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AOA","kwanza yati Angola");
     result.put("AUD","dolaar yati Ostraalia");
     result.put("BHD","dinaar yati Bahrayn");

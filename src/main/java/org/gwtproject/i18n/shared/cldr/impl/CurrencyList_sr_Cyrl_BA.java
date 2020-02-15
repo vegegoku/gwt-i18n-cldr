@@ -626,7 +626,7 @@ public class CurrencyList_sr_Cyrl_BA extends CurrencyList_sr_Cyrl {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Андорска пезета");
     result.put("AED","УАЕ дирхам");
     result.put("AFA","Авганистански авгани (1927–2002)");

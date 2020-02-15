@@ -626,7 +626,7 @@ public class CurrencyList_nd_ZW extends CurrencyList_nd {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Dola laseArab");
     result.put("AOA","Kwanza yase Angola");
     result.put("AUD","Dola yase Australia");

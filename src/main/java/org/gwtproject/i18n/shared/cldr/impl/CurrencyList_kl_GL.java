@@ -626,7 +626,7 @@ public class CurrencyList_kl_GL extends CurrencyList_kl {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("DKK","danmarkimut koruuni");
     result.put("EUR","euro");
     result.put("NOK","norskit koruuni");

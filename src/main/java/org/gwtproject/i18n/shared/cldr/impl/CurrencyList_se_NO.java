@@ -626,7 +626,7 @@ public class CurrencyList_se_NO extends CurrencyList_se {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("EUR","euro");
     result.put("FIM","suoma márkki");
     result.put("NOK","norgga kruvdno");

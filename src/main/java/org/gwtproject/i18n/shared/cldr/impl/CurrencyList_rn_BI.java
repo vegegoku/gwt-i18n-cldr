@@ -626,7 +626,7 @@ public class CurrencyList_rn_BI extends CurrencyList_rn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Idiramu ryo muri Leta Zunze Ubumwe z’Abarabu");
     result.put("AOA","Ikwanza ryo muri Angola");
     result.put("AUD","Idolari ryo muri Ositaraliya");

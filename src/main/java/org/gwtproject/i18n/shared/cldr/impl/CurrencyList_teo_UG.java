@@ -626,7 +626,7 @@ public class CurrencyList_teo_UG extends CurrencyList_teo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Ango’otol lok’ Falme za Kiarabu");
     result.put("AOA","Ango’otol lok’ Angola");
     result.put("AUD","Ango’otol lok’ Australia");

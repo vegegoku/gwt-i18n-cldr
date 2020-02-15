@@ -626,7 +626,7 @@ public class CurrencyList_shi_Latn_MA extends CurrencyList_shi_Latn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","adrim n limarat");
     result.put("AOA","kwanza n angula");
     result.put("AUD","adular n ustralya");

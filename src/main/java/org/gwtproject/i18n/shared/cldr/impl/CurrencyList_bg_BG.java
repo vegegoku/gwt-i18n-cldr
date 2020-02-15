@@ -626,7 +626,7 @@ public class CurrencyList_bg_BG extends CurrencyList_bg {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Андорска песета");
     result.put("AED","Дирхам на Обединените арабски емирства");
     result.put("AFA","Афганистански афган (1927–2002)");

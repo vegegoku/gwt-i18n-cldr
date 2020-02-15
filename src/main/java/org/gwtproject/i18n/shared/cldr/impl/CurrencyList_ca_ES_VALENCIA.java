@@ -626,7 +626,7 @@ public class CurrencyList_ca_ES_VALENCIA extends CurrencyList_ca_ES {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","pesseta andorrana");
     result.put("AED","dírham de la UEA");
     result.put("AFA","afgani afganés (1927–2002)");

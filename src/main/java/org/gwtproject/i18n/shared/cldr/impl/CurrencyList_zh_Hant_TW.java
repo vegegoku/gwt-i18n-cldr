@@ -626,7 +626,7 @@ public class CurrencyList_zh_Hant_TW extends CurrencyList_zh_Hant {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","安道爾陪士特");
     result.put("AED","阿拉伯聯合大公國迪爾汗");
     result.put("AFA","阿富汗尼 (1927–2002)");

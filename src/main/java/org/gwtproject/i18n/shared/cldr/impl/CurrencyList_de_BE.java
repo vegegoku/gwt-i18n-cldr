@@ -626,7 +626,7 @@ public class CurrencyList_de_BE extends CurrencyList_de {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Andorranische Pesete");
     result.put("AED","VAE-Dirham");
     result.put("AFA","Afghanische Afghani (1927–2002)");

@@ -626,7 +626,7 @@ public class CurrencyList_ln_CD extends CurrencyList_ln {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Dirihamɛ ya Lémila alabo");
     result.put("ALL","Lek");
     result.put("AOA","Kwanza ya Angóla");

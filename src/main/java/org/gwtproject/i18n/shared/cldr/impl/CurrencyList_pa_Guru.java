@@ -626,7 +626,7 @@ public class CurrencyList_pa_Guru extends CurrencyList_pa {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ ਦਿਰਹਾਮ");
     result.put("AFN","ਅਫ਼ਗਾਨ ਅਫ਼ਗਾਨੀ");
     result.put("ALL","ਅਲਬਾਨੀਆਈ ਲੇਕ");

@@ -626,7 +626,7 @@ public class CurrencyList_or_IN extends CurrencyList_or {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","ଯୁକ୍ତ ଆରବ ଏମିରେଟସ୍ ଦିରହାମ୍");
     result.put("AFN","ଆଫଗାନ ଆଫଗାନି");
     result.put("ALL","ଆଲବାନିୟ ଲେକ୍");

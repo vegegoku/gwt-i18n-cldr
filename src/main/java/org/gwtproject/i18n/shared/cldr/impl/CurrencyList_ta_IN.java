@@ -626,7 +626,7 @@ public class CurrencyList_ta_IN extends CurrencyList_ta {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்");
     result.put("AFN","ஆஃப்கான் ஆஃப்கானி");
     result.put("ALL","அல்பேனியன் லெக்");

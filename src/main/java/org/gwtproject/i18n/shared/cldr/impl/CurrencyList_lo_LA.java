@@ -626,7 +626,7 @@ public class CurrencyList_lo_LA extends CurrencyList_lo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","ເປເຊຕາ ອັນໂດລາ");
     result.put("AED","ສະ​ຫະ​ລັດ​ອາ​ຣັບ​ອາ​ມິ​ເຣດ ເດີ​ແຮມ");
     result.put("AFA","ອັບການິ ອັບການິສະຖານ (1927–2002)");

@@ -626,7 +626,7 @@ public class CurrencyList_ff_Latn extends CurrencyList_ff {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Dirham Emiraati Araab Dentuɗi");
     result.put("AOA","Kwansaa Anngolaa");
     result.put("AUD","Dolaar Ostaraalii");

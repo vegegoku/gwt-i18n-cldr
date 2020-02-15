@@ -626,7 +626,7 @@ public class CurrencyList_to_TO extends CurrencyList_to {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AUD","Australian Dollar");
     result.put("TOP","Paʻanga fakatonga");
     result.put("WST","Tala fakahaʻamoa");

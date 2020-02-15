@@ -626,7 +626,7 @@ public class CurrencyList_gsw_LI extends CurrencyList_gsw {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Andorranischi Peseete");
     result.put("AED","UAE Dirham");
     result.put("AFA","Afghani (1927–2002)");

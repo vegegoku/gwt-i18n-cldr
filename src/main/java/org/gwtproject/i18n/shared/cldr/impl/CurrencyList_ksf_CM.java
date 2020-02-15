@@ -626,7 +626,7 @@ public class CurrencyList_ksf_CM extends CurrencyList_ksf {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","mɔni mǝ á bǝlɔŋ bǝ kaksa bɛ táatáaŋzǝn");
     result.put("AOA","mɔni mǝ á angóla");
     result.put("AUD","mɔni mǝ á ɔstralí");

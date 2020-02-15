@@ -626,7 +626,7 @@ public class CurrencyList_ne_NP extends CurrencyList_ne {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","संयुक्त अरब एमिराट्स डिर्हाम");
     result.put("AFA","अफ्गानी(१९२७–२००२)");
     result.put("AFN","अफ्गान अफ्गानी");

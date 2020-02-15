@@ -626,7 +626,7 @@ public class CurrencyList_id_ID extends CurrencyList_id {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Peseta Andorra");
     result.put("AED","Dirham Uni Emirat Arab");
     result.put("AFA","Afgani Afganistan (1927–2002)");

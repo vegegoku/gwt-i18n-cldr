@@ -626,7 +626,7 @@ public class CurrencyList_xh_ZA extends CurrencyList_xh {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ZAR","iRandi yaseMzanzi Afrika");
     return result;
   }

@@ -626,7 +626,7 @@ public class CurrencyList_ii_CN extends CurrencyList_ii {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("XXX","ꅉꀋꐚꌠꌋꆀꎆꃀꀋꈁꀐꌠ");
     return result;
   }

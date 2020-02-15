@@ -626,7 +626,7 @@ public class CurrencyList_kea_CV extends CurrencyList_kea {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Diren di Emiradus Arabi Unidu");
     result.put("AOA","Kuanza");
     result.put("AUD","Dola australianu");

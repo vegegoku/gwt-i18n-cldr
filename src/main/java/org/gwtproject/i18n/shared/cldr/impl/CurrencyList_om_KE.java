@@ -626,7 +626,7 @@ public class CurrencyList_om_KE extends CurrencyList_om {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Brazilian Real");
     result.put("CNY","Chinese Yuan Renminbi");
     result.put("ETB","Itoophiyaa Birrii");

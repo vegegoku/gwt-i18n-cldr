@@ -626,7 +626,7 @@ public class CurrencyList_lrc_IR extends CurrencyList_lrc {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","رئال بئرئزیل");
     result.put("CNY","یوان چین");
     result.put("EUR","یورو");

@@ -626,7 +626,7 @@ public class CurrencyList_tr_CY extends CurrencyList_tr {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Andorra Pezetası");
     result.put("AED","Birleşik Arap Emirlikleri Dirhemi");
     result.put("AFA","Afganistan Afganisi (1927–2002)");

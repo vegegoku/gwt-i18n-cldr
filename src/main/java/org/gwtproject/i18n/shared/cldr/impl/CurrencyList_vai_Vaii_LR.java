@@ -626,7 +626,7 @@ public class CurrencyList_vai_Vaii_LR extends CurrencyList_vai_Vaii {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","ꖳꕯꔤꗳ ꕉꕟꔬ ꗡꕆꔓꔻ ꔵꕌꕆ");
     result.put("AOA","ꕉꖐꕞ ꖴꕎꘋꕤ");
     result.put("AUD","ꖺꔻꖤꔃꔷꕩ ꕜꕞꕌ");

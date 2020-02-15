@@ -626,7 +626,7 @@ public class CurrencyList_lag extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Diriháamu ya Ʉtemi wa Kɨaráabu");
     result.put("AOA","Kwáanza ya Angóola");
     result.put("AUD","Dóola ya Ausitereelía");

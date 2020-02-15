@@ -626,7 +626,7 @@ public class CurrencyList_bm extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","arabu mara kafoli Diram");
     result.put("AOA","angola Kwanza");
     result.put("AUD","ositirali Dolar");

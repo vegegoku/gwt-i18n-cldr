@@ -626,7 +626,7 @@ public class CurrencyList_tg_TJ extends CurrencyList_tg {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Реали бразилиягӣ");
     result.put("CNY","Иенаи хитоӣ");
     result.put("EUR","Евро");

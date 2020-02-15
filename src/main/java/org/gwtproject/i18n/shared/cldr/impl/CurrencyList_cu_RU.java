@@ -626,7 +626,7 @@ public class CurrencyList_cu_RU extends CurrencyList_cu {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","бразі́льскїй реа́лъ");
     result.put("BYN","бѣлорꙋ́сскїй рꙋ́бль");
     result.put("BYR","бѣлорꙋ́сскїй рꙋ́бль (2000–2016)");

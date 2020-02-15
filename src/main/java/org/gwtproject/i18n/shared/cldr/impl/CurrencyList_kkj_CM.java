@@ -626,7 +626,7 @@ public class CurrencyList_kkj_CM extends CurrencyList_kkj {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("XAF","Franc CFA");
     return result;
   }

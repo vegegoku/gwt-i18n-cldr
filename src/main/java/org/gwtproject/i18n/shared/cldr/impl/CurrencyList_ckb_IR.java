@@ -626,7 +626,7 @@ public class CurrencyList_ckb_IR extends CurrencyList_ckb {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AFN","ئەفغانیی ئەفغانستان");
     result.put("BHD","دیناری بەحرەینی");
     result.put("BZD","دۆلاری بەلیزی");

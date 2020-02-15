@@ -626,7 +626,7 @@ public class CurrencyList_ksh extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","de vereineschte arraabesche Emiraate ier Dirham");
     result.put("AFN","Afjahni");
     result.put("ALL","albaanesche Lek");

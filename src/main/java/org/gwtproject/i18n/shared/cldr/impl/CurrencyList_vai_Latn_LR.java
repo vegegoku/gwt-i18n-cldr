@@ -626,7 +626,7 @@ public class CurrencyList_vai_Latn_LR extends CurrencyList_vai_Latn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Yunaitɛ Arabhi Ɛmire Dihami");
     result.put("AOA","Angola Kuwaŋza");
     result.put("AUD","Ɔ́situwa Dala");

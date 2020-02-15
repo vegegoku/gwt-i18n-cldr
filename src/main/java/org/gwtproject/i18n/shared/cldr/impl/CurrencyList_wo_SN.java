@@ -626,7 +626,7 @@ public class CurrencyList_wo_SN extends CurrencyList_wo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Real bu Bresil");
     result.put("CNY","Yuan bu Siin");
     result.put("EUR","Euro");

@@ -626,7 +626,7 @@ public class CurrencyList_vi_VN extends CurrencyList_vi {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Đồng Peseta của Andora");
     result.put("AED","Dirham UAE");
     result.put("AFA","Đồng Afghani của Afghanistan (1927–2002)");

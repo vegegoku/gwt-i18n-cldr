@@ -626,7 +626,7 @@ public class CurrencyList_my extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","အာရပ်စော်ဘွားများ ပြည်ထောင်စု ဒါဟမ်း");
     result.put("AFN","အာဖဂန် အာဖဂါနီ");
     result.put("ALL","အယ်ဘေးနီးယား လီခ်");

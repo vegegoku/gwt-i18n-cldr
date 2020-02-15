@@ -626,7 +626,7 @@ public class CurrencyList_jgo_CM extends CurrencyList_jgo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("CAD","Ndɔ́la-Kanandâ");
     result.put("EUR","Ʉ́lɔ");
     result.put("USD","Ndɔ́la-Amɛlîk");

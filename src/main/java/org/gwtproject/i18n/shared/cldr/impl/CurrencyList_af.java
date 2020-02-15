@@ -626,7 +626,7 @@ public class CurrencyList_af extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Verenigde Arabiese Emirate dirham");
     result.put("AFN","Afgaanse afgani");
     result.put("ALL","Albanese lek");

@@ -626,7 +626,7 @@ public class CurrencyList_ti extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","የብራዚል ሪል");
     result.put("CNY","የቻይና ዩአን ረንሚንቢ");
     result.put("ETB","የኢትዮጵያ ብር");

@@ -626,7 +626,7 @@ public class CurrencyList_os_RU extends CurrencyList_os {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Бразилиаг реал");
     result.put("EUR","Евро");
     result.put("GBP","Бритайнаг Фунт");

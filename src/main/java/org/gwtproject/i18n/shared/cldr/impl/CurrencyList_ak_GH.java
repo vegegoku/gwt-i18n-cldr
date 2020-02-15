@@ -626,7 +626,7 @@ public class CurrencyList_ak_GH extends CurrencyList_ak {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Ɛmirete Arab Nkabɔmu Deram");
     result.put("AOA","Angola Kwanza");
     result.put("AUD","Ɔstrelia Dɔla");

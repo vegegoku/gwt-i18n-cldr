@@ -626,7 +626,7 @@ public class CurrencyList_naq extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","United Arab Emirates Dirham");
     result.put("AOA","Angolan Kwanzab");
     result.put("AUD","Australian Dollari");

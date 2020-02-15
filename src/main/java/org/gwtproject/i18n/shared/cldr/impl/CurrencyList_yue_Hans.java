@@ -626,7 +626,7 @@ public class CurrencyList_yue_Hans extends CurrencyList_yue {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","安道尔陪士特");
     result.put("AED","阿拉伯联合大公国迪尔汗");
     result.put("AFA","阿富汗尼 (1927–2002)");

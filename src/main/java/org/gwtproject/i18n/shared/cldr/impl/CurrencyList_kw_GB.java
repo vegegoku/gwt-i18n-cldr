@@ -626,7 +626,7 @@ public class CurrencyList_kw_GB extends CurrencyList_kw {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("EUR","Euro");
     return result;
   }

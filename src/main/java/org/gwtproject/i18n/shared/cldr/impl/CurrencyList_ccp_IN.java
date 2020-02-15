@@ -626,7 +626,7 @@ public class CurrencyList_ccp_IN extends CurrencyList_ccp {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","𑄃𑄳𑄠𑄚𑄴𑄓𑄮𑄢𑄚𑄴 𑄛𑄬𑄥𑄬𑄖");
     result.put("AED","𑄎𑄧𑄙 𑄃𑄢𑄧𑄝𑄴 𑄃𑄟𑄨𑄢𑄖𑄴 𑄘𑄨𑄢𑄴𑄦𑄟𑄴");
     result.put("AFA","𑄃𑄛𑄴𑄉𑄚𑄨 (𑄷𑄿𑄸𑄽-𑄸𑄶𑄶𑄸)");

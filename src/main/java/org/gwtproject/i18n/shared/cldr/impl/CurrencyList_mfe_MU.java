@@ -626,7 +626,7 @@ public class CurrencyList_mfe_MU extends CurrencyList_mfe {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","dirham Emira arab ini");
     result.put("AOA","kwanza angole");
     result.put("AUD","dolar ostralien");

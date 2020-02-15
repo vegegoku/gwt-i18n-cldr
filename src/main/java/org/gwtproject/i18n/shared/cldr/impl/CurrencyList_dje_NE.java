@@ -626,7 +626,7 @@ public class CurrencyList_dje_NE extends CurrencyList_dje {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Laaraw Immaara Margantey Dirham");
     result.put("AOA","Angoola Kwanza");
     result.put("AUD","Ostraali Dollar");

@@ -626,7 +626,7 @@ public class CurrencyList_mt_MT extends CurrencyList_mt {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("EUR","ewro");
     result.put("MTL","Lira Maltija");
     result.put("XXX","Munita Mhix Magħrufa jew Mhix Valida");

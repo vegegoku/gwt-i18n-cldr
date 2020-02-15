@@ -626,7 +626,7 @@ public class CurrencyList_xog_UG extends CurrencyList_xog {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Diraamu eya Emireeti");
     result.put("AOA","Kwanza y’Angola");
     result.put("AUD","Doola y’Awusiturelya");

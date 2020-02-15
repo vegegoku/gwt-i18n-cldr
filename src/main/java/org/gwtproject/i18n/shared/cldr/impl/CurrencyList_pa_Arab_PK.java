@@ -626,7 +626,7 @@ public class CurrencyList_pa_Arab_PK extends CurrencyList_pa_Arab {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("EUR","يورو");
     result.put("INR","روپئیہ [INR]");
     result.put("PKR","روپئیہ");

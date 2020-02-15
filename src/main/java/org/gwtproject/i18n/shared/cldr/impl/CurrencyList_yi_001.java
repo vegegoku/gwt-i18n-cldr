@@ -626,7 +626,7 @@ public class CurrencyList_yi_001 extends CurrencyList_yi {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","בראזיל רעאל");
     result.put("BZD","בעליז דאלאַר");
     result.put("CHF","שווייצער פֿראַנק");

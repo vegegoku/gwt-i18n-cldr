@@ -626,7 +626,7 @@ public class CurrencyList_sr_Latn extends CurrencyList_sr {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","Andorska pezeta");
     result.put("AED","UAE dirham");
     result.put("AFA","Avganistanski avgani (1927–2002)");

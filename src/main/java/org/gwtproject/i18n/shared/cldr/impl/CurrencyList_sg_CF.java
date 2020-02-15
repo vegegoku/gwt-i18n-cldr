@@ -626,7 +626,7 @@ public class CurrencyList_sg_CF extends CurrencyList_sg {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","dirâm tî âEmirâti tî Arâbo Ôko");
     result.put("AOA","kwânza tî Angoläa");
     result.put("AUD","dolära tî Ostralïi");

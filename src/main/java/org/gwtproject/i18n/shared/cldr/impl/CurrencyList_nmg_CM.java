@@ -626,7 +626,7 @@ public class CurrencyList_nmg_CM extends CurrencyList_nmg {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Mɔn B ´Arabe");
     result.put("AOA","Mɔn Angola");
     result.put("AUD","Dɔ́llɔ Ɔstralia");

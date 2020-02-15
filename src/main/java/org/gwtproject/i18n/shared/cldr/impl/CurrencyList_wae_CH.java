@@ -626,7 +626,7 @@ public class CurrencyList_wae_CH extends CurrencyList_wae {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("BRL","Brasilianiši Real");
     result.put("CNY","Chinesiši Yuan");
     result.put("EUR","Euro");

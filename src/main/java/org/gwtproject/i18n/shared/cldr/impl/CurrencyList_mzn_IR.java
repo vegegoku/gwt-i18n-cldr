@@ -626,7 +626,7 @@ public class CurrencyList_mzn_IR extends CurrencyList_mzn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","متحده عربی امارات ِدرهم");
     result.put("AFN","افغانستون ِافغانی");
     result.put("ALL","آلبانی ِلک");

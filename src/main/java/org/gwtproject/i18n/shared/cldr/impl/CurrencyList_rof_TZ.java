@@ -626,7 +626,7 @@ public class CurrencyList_rof_TZ extends CurrencyList_rof {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","heleri sa Falme za Kiarabu");
     result.put("AOA","heleri sa Angola");
     result.put("AUD","heleri sa Australia");

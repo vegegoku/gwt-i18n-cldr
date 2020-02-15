@@ -626,7 +626,7 @@ public class CurrencyList_ksb_TZ extends CurrencyList_ksb {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","dilham ya Falme za Kialabu");
     result.put("AOA","kwanza ya Angola");
     result.put("AUD","dola ya Austlalia");

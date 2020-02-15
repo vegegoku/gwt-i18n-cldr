@@ -626,7 +626,7 @@ public class CurrencyList_mgo_CM extends CurrencyList_mgo {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("XAF","shirè");
     result.put("XXX","iku ikap mɔʼɔ");
     return result;

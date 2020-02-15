@@ -626,7 +626,7 @@ public class CurrencyList_yav_CM extends CurrencyList_yav {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AOA","kuansa wu angolá");
     result.put("AUD","toláal wu ostalalí");
     result.put("BHD","tináal wu paaléen");

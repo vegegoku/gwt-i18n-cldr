@@ -626,7 +626,7 @@ public class CurrencyList_ug_CN extends CurrencyList_ug {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","ئاندورران پېسېتاسى");
     result.put("AED","ئەرەب بىرلەشمە خەلىپىلىكى دەرھەمى");
     result.put("AFA","ئافغان ئافغانى (1927–2002)");

@@ -626,7 +626,7 @@ public class CurrencyList_ja_JP extends CurrencyList_ja {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","アンドラ ペセタ");
     result.put("AED","アラブ首長国連邦ディルハム");
     result.put("AFA","アフガニスタン アフガニー (1927–2002)");

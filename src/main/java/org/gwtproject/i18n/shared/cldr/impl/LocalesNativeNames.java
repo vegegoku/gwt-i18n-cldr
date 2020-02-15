@@ -8,7 +8,7 @@ import javax.annotation.Generated;
 @Generated("gwt-cldr-importer : org.gwtproject.tools.cldr.LocalesNativeNamesProcessor, CLDR version : release-34")
 public class LocalesNativeNames {
   public Map<String, String> getLocalesNativeNames() {
-    Map<String,String> result = new HashMap<>();
+    Map<String, String> result = new HashMap<>();
     result.put("af","Afrikaans");
     result.put("agq","Aghem");
     result.put("ak","Akan");

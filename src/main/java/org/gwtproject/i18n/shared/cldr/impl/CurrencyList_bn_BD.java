@@ -626,7 +626,7 @@ public class CurrencyList_bn_BD extends CurrencyList_bn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("ADP","এ্যান্ডোরান পেসেতা");
     result.put("AED","সংযুক্ত আরব আমিরাত দিরহাম");
     result.put("AFA","আফগানি (১৯২৭–২০০২)");

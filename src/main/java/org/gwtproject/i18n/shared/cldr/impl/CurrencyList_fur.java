@@ -626,7 +626,7 @@ public class CurrencyList_fur extends CurrencyList_ {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AMD","Dram armen");
     result.put("ARS","Peso argjentin");
     result.put("ATS","Selin austriac");

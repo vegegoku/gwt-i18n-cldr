@@ -626,7 +626,7 @@ public class CurrencyList_smn_FI extends CurrencyList_smn {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("DKK","Tanska ruvnâ");
     result.put("EEK","Eesti ruvnâ");
     result.put("EUR","euro");

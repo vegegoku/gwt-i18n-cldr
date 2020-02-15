@@ -626,7 +626,7 @@ public class CurrencyList_cy_GB extends CurrencyList_cy {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","Dirham Yr Emiradau Arabaidd Unedig");
     result.put("AFA","Afghani Afghanistan (1927–2002)");
     result.put("AFN","Afghani Afghanistan");

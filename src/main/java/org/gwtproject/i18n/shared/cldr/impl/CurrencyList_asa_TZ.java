@@ -626,7 +626,7 @@ public class CurrencyList_asa_TZ extends CurrencyList_asa {
 
   @Override
   protected HashMap<String, String> loadNamesMap() {
-    HashMap<String,String> result = super.loadNamesMap();
+    HashMap<String, String> result = super.loadNamesMap();
     result.put("AED","dirham ya Falme dha Kiarabu");
     result.put("AOA","kwandha ya Angola");
     result.put("AUD","dola ya Authtralia");
