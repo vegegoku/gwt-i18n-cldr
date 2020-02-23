@@ -6,6 +6,9 @@ import org.gwtproject.i18n.shared.cldr.NumberConstants;
 @Generated("gwt-cldr-importer : org.gwtproject.tools.cldr.NumberConstantsProcessor, CLDR version : release-34")
 public class NumberConstants_factory {
   public static NumberConstants create() {
+    if(System.getProperty("locale").equals("default")) {
+      return new NumberConstantsImpl();
+    }
     if(System.getProperty("locale").startsWith("zu_ZA")) {
       return new NumberConstantsImpl_zu_ZA();
     }

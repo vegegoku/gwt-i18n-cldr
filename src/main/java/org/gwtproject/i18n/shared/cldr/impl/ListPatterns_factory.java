@@ -6,6 +6,9 @@ import org.gwtproject.i18n.shared.cldr.ListPattern;
 @Generated("gwt-cldr-importer : org.gwtproject.tools.cldr.ListFormattingProcessor, CLDR version : release-34")
 public class ListPatterns_factory {
   public static ListPattern create() {
+    if(System.getProperty("locale").equals("default")) {
+      return new ListPatternsImpl();
+    }
     if(System.getProperty("locale").startsWith("zu")) {
       return new ListPatternsImpl_zu();
     }

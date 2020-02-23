@@ -6,6 +6,9 @@ import org.gwtproject.i18n.shared.cldr.CurrencyList;
 @Generated("gwt-cldr-importer : org.gwtproject.tools.cldr.CurrencyListProcessor, CLDR version : release-34")
 public class CurrencyList_factory {
   public static CurrencyList create() {
+    if(System.getProperty("locale").equals("default")) {
+      return new CurrencyList_();
+    }
     if(System.getProperty("locale").startsWith("zu_ZA")) {
       return new CurrencyList_zu_ZA();
     }
