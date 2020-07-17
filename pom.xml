@@ -55,6 +55,7 @@
         <maven.surfire.plugin>3.0.0-M1</maven.surfire.plugin>
         <maven.javadoc.plugin>3.2.0</maven.javadoc.plugin>
         <maven.source.plugin>3.2.1</maven.source.plugin>
+        <maven.gpg.plugin>1.6</maven.gpg.plugin>
     </properties>
 
     <build>
@@ -101,7 +102,7 @@
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-source-plugin</artifactId>
-                        <version>2.2.1</version>
+                        <version>${maven.source.plugin}</version>
                         <executions>
                             <execution>
                                 <id>attach-sources</id>
@@ -111,11 +112,24 @@
                             </execution>
                         </executions>
                     </plugin>
+                    <plugin>
+                        <groupId>org.apache.maven.plugins</groupId>
+                        <artifactId>maven-javadoc-plugin</artifactId>
+                        <version>${maven.javadoc.plugin}</version>
+                        <executions>
+                            <execution>
+                                <id>attach-javadocs</id>
+                                <goals>
+                                    <goal>jar</goal>
+                                </goals>
+                            </execution>
+                        </executions>
+                    </plugin>
                     <!-- see http://central.sonatype.org/pages/working-with-pgp-signatures.html for more detail -->
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-gpg-plugin</artifactId>
-                        <version>1.6</version>
+                        <version>${maven.gpg.plugin}</version>
                         <executions>
                             <execution>
                                 <id>sign-artifacts</id>
@@ -130,6 +144,4 @@
             </build>
         </profile>
     </profiles>
-
-
 </project>
