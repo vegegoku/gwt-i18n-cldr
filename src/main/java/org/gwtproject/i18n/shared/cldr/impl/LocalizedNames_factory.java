@@ -21,1112 +21,1108 @@ import org.gwtproject.i18n.shared.cldr.LocalizedNames;
 public class LocalizedNames_factory {
 
  public static LocalizedNames create(){
- 	return create(System.getProperty("locale"));
- }
 
- public static LocalizedNames create(String locale){
-
-   if("".equals(locale)){
+   if("".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl();
    }
 
-   if("fi".equals(locale)){
+   if("fi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fi();
    }
 
-   if("ksf".equals(locale)){
+   if("ksf".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ksf();
    }
 
-   if("ks".equals(locale)){
+   if("ks".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ks();
    }
 
-   if("ce".equals(locale)){
+   if("ce".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ce();
    }
 
-   if("khq".equals(locale)){
+   if("khq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_khq();
    }
 
-   if("mgo".equals(locale)){
+   if("mgo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mgo();
    }
 
-   if("nnh".equals(locale)){
+   if("nnh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nnh();
    }
 
-   if("zh_Hant_MO".equals(locale)){
+   if("zh_Hant_MO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh_Hant_MO();
    }
 
-   if("en".equals(locale)){
+   if("en".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_en();
    }
 
-   if("my".equals(locale)){
+   if("my".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_my();
    }
 
-   if("sg".equals(locale)){
+   if("sg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sg();
    }
 
-   if("cu".equals(locale)){
+   if("cu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_cu();
    }
 
-   if("or".equals(locale)){
+   if("or".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_or();
    }
 
-   if("uz".equals(locale)){
+   if("uz".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_uz();
    }
 
-   if("hr".equals(locale)){
+   if("hr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_hr();
    }
 
-   if("ccp".equals(locale)){
+   if("ccp".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ccp();
    }
 
-   if("fy".equals(locale)){
+   if("fy".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fy();
    }
 
-   if("fa_AF".equals(locale)){
+   if("fa_AF".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fa_AF();
    }
 
-   if("es_419".equals(locale)){
+   if("es_419".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_419();
    }
 
-   if("tr".equals(locale)){
+   if("tr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_tr();
    }
 
-   if("es_CO".equals(locale)){
+   if("es_CO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_CO();
    }
 
-   if("sq".equals(locale)){
+   if("sq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sq();
    }
 
-   if("te".equals(locale)){
+   if("te".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_te();
    }
 
-   if("ln".equals(locale)){
+   if("ln".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ln();
    }
 
-   if("ff".equals(locale)){
+   if("ff".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ff();
    }
 
-   if("sw".equals(locale)){
+   if("sw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sw();
    }
 
-   if("ar_LY".equals(locale)){
+   if("ar_LY".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ar_LY();
    }
 
-   if("es_DO".equals(locale)){
+   if("es_DO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_DO();
    }
 
-   if("sbp".equals(locale)){
+   if("sbp".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sbp();
    }
 
-   if("ps".equals(locale)){
+   if("ps".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ps();
    }
 
-   if("lag".equals(locale)){
+   if("lag".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lag();
    }
 
-   if("to".equals(locale)){
+   if("to".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_to();
    }
 
-   if("es_MX".equals(locale)){
+   if("es_MX".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_MX();
    }
 
-   if("guz".equals(locale)){
+   if("guz".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_guz();
    }
 
-   if("dz".equals(locale)){
+   if("dz".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dz();
    }
 
-   if("es_SV".equals(locale)){
+   if("es_SV".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_SV();
    }
 
-   if("sw_KE".equals(locale)){
+   if("sw_KE".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sw_KE();
    }
 
-   if("sd".equals(locale)){
+   if("sd".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sd();
    }
 
-   if("luo".equals(locale)){
+   if("luo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_luo();
    }
 
-   if("ko_KP".equals(locale)){
+   if("ko_KP".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ko_KP();
    }
 
-   if("mr".equals(locale)){
+   if("mr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mr();
    }
 
-   if("eu".equals(locale)){
+   if("eu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_eu();
    }
 
-   if("gsw".equals(locale)){
+   if("gsw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_gsw();
    }
 
-   if("tzm".equals(locale)){
+   if("tzm".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_tzm();
    }
 
-   if("pt_GW".equals(locale)){
+   if("pt_GW".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_GW();
    }
 
-   if("th".equals(locale)){
+   if("th".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_th();
    }
 
-   if("ja".equals(locale)){
+   if("ja".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ja();
    }
 
-   if("sn".equals(locale)){
+   if("sn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sn();
    }
 
-   if("luy".equals(locale)){
+   if("luy".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_luy();
    }
 
-   if("dsb".equals(locale)){
+   if("dsb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dsb();
    }
 
-   if("it".equals(locale)){
+   if("it".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_it();
    }
 
-   if("yi".equals(locale)){
+   if("yi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yi();
    }
 
-   if("nmg".equals(locale)){
+   if("nmg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nmg();
    }
 
-   if("sah".equals(locale)){
+   if("sah".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sah();
    }
 
-   if("hy".equals(locale)){
+   if("hy".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_hy();
    }
 
-   if("ar".equals(locale)){
+   if("ar".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ar();
    }
 
-   if("ar_SA".equals(locale)){
+   if("ar_SA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ar_SA();
    }
 
-   if("es_BO".equals(locale)){
+   if("es_BO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_BO();
    }
 
-   if("naq".equals(locale)){
+   if("naq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_naq();
    }
 
-   if("mgh".equals(locale)){
+   if("mgh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mgh();
    }
 
-   if("he".equals(locale)){
+   if("he".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_he();
    }
 
-   if("zgh".equals(locale)){
+   if("zgh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zgh();
    }
 
-   if("bg".equals(locale)){
+   if("bg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bg();
    }
 
-   if("de_CH".equals(locale)){
+   if("de_CH".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_de_CH();
    }
 
-   if("dua".equals(locale)){
+   if("dua".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dua();
    }
 
-   if("ki".equals(locale)){
+   if("ki".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ki();
    }
 
-   if("pt_LU".equals(locale)){
+   if("pt_LU".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_LU();
    }
 
-   if("uz_Arab".equals(locale)){
+   if("uz_Arab".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_uz_Arab();
    }
 
-   if("vo".equals(locale)){
+   if("vo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_vo();
    }
 
-   if("ig".equals(locale)){
+   if("ig".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ig();
    }
 
-   if("dje".equals(locale)){
+   if("dje".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dje();
    }
 
-   if("sk".equals(locale)){
+   if("sk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sk();
    }
 
-   if("vai_Latn".equals(locale)){
+   if("vai_Latn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_vai_Latn();
    }
 
-   if("sr_Latn_ME".equals(locale)){
+   if("sr_Latn_ME".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Latn_ME();
    }
 
-   if("mzn".equals(locale)){
+   if("mzn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mzn();
    }
 
-   if("kok".equals(locale)){
+   if("kok".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kok();
    }
 
-   if("ia".equals(locale)){
+   if("ia".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ia();
    }
 
-   if("wo".equals(locale)){
+   if("wo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_wo();
    }
 
-   if("es_CL".equals(locale)){
+   if("es_CL".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_CL();
    }
 
-   if("fr".equals(locale)){
+   if("fr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fr();
    }
 
-   if("ko".equals(locale)){
+   if("ko".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ko();
    }
 
-   if("ksb".equals(locale)){
+   if("ksb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ksb();
    }
 
-   if("mas".equals(locale)){
+   if("mas".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mas();
    }
 
-   if("mfe".equals(locale)){
+   if("mfe".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mfe();
    }
 
-   if("nyn".equals(locale)){
+   if("nyn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nyn();
    }
 
-   if("ti".equals(locale)){
+   if("ti".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ti();
    }
 
-   if("gu".equals(locale)){
+   if("gu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_gu();
    }
 
-   if("yav".equals(locale)){
+   if("yav".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yav();
    }
 
-   if("am".equals(locale)){
+   if("am".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_am();
    }
 
-   if("id".equals(locale)){
+   if("id".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_id();
    }
 
-   if("ru".equals(locale)){
+   if("ru".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ru();
    }
 
-   if("az".equals(locale)){
+   if("az".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_az();
    }
 
-   if("bas".equals(locale)){
+   if("bas".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bas();
    }
 
-   if("kl".equals(locale)){
+   if("kl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kl();
    }
 
-   if("bn".equals(locale)){
+   if("bn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bn();
    }
 
-   if("de_AT".equals(locale)){
+   if("de_AT".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_de_AT();
    }
 
-   if("mua".equals(locale)){
+   if("mua".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mua();
    }
 
-   if("ku".equals(locale)){
+   if("ku".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ku();
    }
 
-   if("ms".equals(locale)){
+   if("ms".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ms();
    }
 
-   if("pa".equals(locale)){
+   if("pa".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pa();
    }
 
-   if("nd".equals(locale)){
+   if("nd".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nd();
    }
 
-   if("ro".equals(locale)){
+   if("ro".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ro();
    }
 
-   if("uk".equals(locale)){
+   if("uk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_uk();
    }
 
-   if("ga".equals(locale)){
+   if("ga".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ga();
    }
 
-   if("fo".equals(locale)){
+   if("fo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fo();
    }
 
-   if("lg".equals(locale)){
+   if("lg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lg();
    }
 
-   if("ug".equals(locale)){
+   if("ug".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ug();
    }
 
-   if("brx".equals(locale)){
+   if("brx".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_brx();
    }
 
-   if("ky".equals(locale)){
+   if("ky".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ky();
    }
 
-   if("vi".equals(locale)){
+   if("vi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_vi();
    }
 
-   if("bez".equals(locale)){
+   if("bez".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bez();
    }
 
-   if("mi".equals(locale)){
+   if("mi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mi();
    }
 
-   if("hi".equals(locale)){
+   if("hi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_hi();
    }
 
-   if("ebu".equals(locale)){
+   if("ebu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ebu();
    }
 
-   if("kkj".equals(locale)){
+   if("kkj".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kkj();
    }
 
-   if("pt_MO".equals(locale)){
+   if("pt_MO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_MO();
    }
 
-   if("pt_GQ".equals(locale)){
+   if("pt_GQ".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_GQ();
    }
 
-   if("as".equals(locale)){
+   if("as".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_as();
    }
 
-   if("yo".equals(locale)){
+   if("yo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yo();
    }
 
-   if("saq".equals(locale)){
+   if("saq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_saq();
    }
 
-   if("af".equals(locale)){
+   if("af".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_af();
    }
 
-   if("lt".equals(locale)){
+   if("lt".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lt();
    }
 
-   if("nn".equals(locale)){
+   if("nn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nn();
    }
 
-   if("az_Cyrl".equals(locale)){
+   if("az_Cyrl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_az_Cyrl();
    }
 
-   if("os".equals(locale)){
+   if("os".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_os();
    }
 
-   if("seh".equals(locale)){
+   if("seh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_seh();
    }
 
-   if("de".equals(locale)){
+   if("de".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_de();
    }
 
-   if("sr_Cyrl_ME".equals(locale)){
+   if("sr_Cyrl_ME".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Cyrl_ME();
    }
 
-   if("pt_MZ".equals(locale)){
+   if("pt_MZ".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_MZ();
    }
 
-   if("gd".equals(locale)){
+   if("gd".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_gd();
    }
 
-   if("ml".equals(locale)){
+   if("ml".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ml();
    }
 
-   if("pt_CH".equals(locale)){
+   if("pt_CH".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_CH();
    }
 
-   if("et".equals(locale)){
+   if("et".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_et();
    }
 
-   if("sw_CD".equals(locale)){
+   if("sw_CD".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sw_CD();
    }
 
-   if("bem".equals(locale)){
+   if("bem".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bem();
    }
 
-   if("pt_CV".equals(locale)){
+   if("pt_CV".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_CV();
    }
 
-   if("ur_IN".equals(locale)){
+   if("ur_IN".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ur_IN();
    }
 
-   if("mt".equals(locale)){
+   if("mt".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mt();
    }
 
-   if("asa".equals(locale)){
+   if("asa".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_asa();
    }
 
-   if("teo".equals(locale)){
+   if("teo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_teo();
    }
 
-   if("om".equals(locale)){
+   if("om".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_om();
    }
 
-   if("mg".equals(locale)){
+   if("mg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mg();
    }
 
-   if("vai".equals(locale)){
+   if("vai".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_vai();
    }
 
-   if("bo_IN".equals(locale)){
+   if("bo_IN".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bo_IN();
    }
 
-   if("zh_Hant_TW".equals(locale)){
+   if("zh_Hant_TW".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh_Hant_TW();
    }
 
-   if("se_FI".equals(locale)){
+   if("se_FI".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_se_FI();
    }
 
-   if("haw".equals(locale)){
+   if("haw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_haw();
    }
 
-   if("es_HN".equals(locale)){
+   if("es_HN".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_HN();
    }
 
-   if("cgg".equals(locale)){
+   if("cgg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_cgg();
    }
 
-   if("bo".equals(locale)){
+   if("bo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bo();
    }
 
-   if("chr".equals(locale)){
+   if("chr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_chr();
    }
 
-   if("kk".equals(locale)){
+   if("kk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kk();
    }
 
-   if("nl_BE".equals(locale)){
+   if("nl_BE".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nl_BE();
    }
 
-   if("es_AR".equals(locale)){
+   if("es_AR".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_AR();
    }
 
-   if("gl".equals(locale)){
+   if("gl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_gl();
    }
 
-   if("es".equals(locale)){
+   if("es".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es();
    }
 
-   if("sr_Cyrl_XK".equals(locale)){
+   if("sr_Cyrl_XK".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Cyrl_XK();
    }
 
-   if("sl".equals(locale)){
+   if("sl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sl();
    }
 
-   if("nds".equals(locale)){
+   if("nds".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nds();
    }
 
-   if("rwk".equals(locale)){
+   if("rwk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_rwk();
    }
 
-   if("br".equals(locale)){
+   if("br".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_br();
    }
 
-   if("tt".equals(locale)){
+   if("tt".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_tt();
    }
 
-   if("zh_Hant".equals(locale)){
+   if("zh_Hant".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh_Hant();
    }
 
-   if("be".equals(locale)){
+   if("be".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_be();
    }
 
-   if("si".equals(locale)){
+   if("si".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_si();
    }
 
-   if("fa".equals(locale)){
+   if("fa".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fa();
    }
 
-   if("yue_Hans".equals(locale)){
+   if("yue_Hans".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yue_Hans();
    }
 
-   if("lv".equals(locale)){
+   if("lv".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lv();
    }
 
-   if("nus".equals(locale)){
+   if("nus".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nus();
    }
 
-   if("ewo".equals(locale)){
+   if("ewo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ewo();
    }
 
-   if("nb".equals(locale)){
+   if("nb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nb();
    }
 
-   if("ksh".equals(locale)){
+   if("ksh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ksh();
    }
 
-   if("es_EC".equals(locale)){
+   if("es_EC".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_EC();
    }
 
-   if("ast".equals(locale)){
+   if("ast".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ast();
    }
 
-   if("da".equals(locale)){
+   if("da".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_da();
    }
 
-   if("ses".equals(locale)){
+   if("ses".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ses();
    }
 
-   if("dyo".equals(locale)){
+   if("dyo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dyo();
    }
 
-   if("pt_PT".equals(locale)){
+   if("pt_PT".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_PT();
    }
 
-   if("zu".equals(locale)){
+   if("zu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zu();
    }
 
-   if("sr_Latn_BA".equals(locale)){
+   if("sr_Latn_BA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Latn_BA();
    }
 
-   if("zh".equals(locale)){
+   if("zh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh();
    }
 
-   if("twq".equals(locale)){
+   if("twq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_twq();
    }
 
-   if("cs".equals(locale)){
+   if("cs".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_cs();
    }
 
-   if("sr_Cyrl_BA".equals(locale)){
+   if("sr_Cyrl_BA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Cyrl_BA();
    }
 
-   if("lrc".equals(locale)){
+   if("lrc".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lrc();
    }
 
-   if("kln".equals(locale)){
+   if("kln".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kln();
    }
 
-   if("kam".equals(locale)){
+   if("kam".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kam();
    }
 
-   if("pt_AO".equals(locale)){
+   if("pt_AO".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_AO();
    }
 
-   if("ne".equals(locale)){
+   if("ne".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ne();
    }
 
-   if("en_GB".equals(locale)){
+   if("en_GB".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_en_GB();
    }
 
-   if("agq".equals(locale)){
+   if("agq".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_agq();
    }
 
-   if("rn".equals(locale)){
+   if("rn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_rn();
    }
 
-   if("es_PA".equals(locale)){
+   if("es_PA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_PA();
    }
 
-   if("ka".equals(locale)){
+   if("ka".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ka();
    }
 
-   if("bs_Cyrl".equals(locale)){
+   if("bs_Cyrl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bs_Cyrl();
    }
 
-   if("sr_Latn".equals(locale)){
+   if("sr_Latn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Latn();
    }
 
-   if("kn".equals(locale)){
+   if("kn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kn();
    }
 
-   if("es_US".equals(locale)){
+   if("es_US".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_US();
    }
 
-   if("pt_ST".equals(locale)){
+   if("pt_ST".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_ST();
    }
 
-   if("fr_CA".equals(locale)){
+   if("fr_CA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fr_CA();
    }
 
-   if("ur".equals(locale)){
+   if("ur".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ur();
    }
 
-   if("kea".equals(locale)){
+   if("kea".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kea();
    }
 
-   if("hsb".equals(locale)){
+   if("hsb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_hsb();
    }
 
-   if("jv".equals(locale)){
+   if("jv".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_jv();
    }
 
-   if("ro_MD".equals(locale)){
+   if("ro_MD".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ro_MD();
    }
 
-   if("kw".equals(locale)){
+   if("kw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kw();
    }
 
-   if("smn".equals(locale)){
+   if("smn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_smn();
    }
 
-   if("ii".equals(locale)){
+   if("ii".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ii();
    }
 
-   if("pt".equals(locale)){
+   if("pt".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt();
    }
 
-   if("mer".equals(locale)){
+   if("mer".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mer();
    }
 
-   if("zh_Hant_HK".equals(locale)){
+   if("zh_Hant_HK".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh_Hant_HK();
    }
 
-   if("sr_Latn_XK".equals(locale)){
+   if("sr_Latn_XK".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr_Latn_XK();
    }
 
-   if("ru_UA".equals(locale)){
+   if("ru_UA".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ru_UA();
    }
 
-   if("pl".equals(locale)){
+   if("pl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pl();
    }
 
-   if("bs".equals(locale)){
+   if("bs".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bs();
    }
 
-   if("kab".equals(locale)){
+   if("kab".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kab();
    }
 
-   if("yue".equals(locale)){
+   if("yue".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yue();
    }
 
-   if("lu".equals(locale)){
+   if("lu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lu();
    }
 
-   if("ak".equals(locale)){
+   if("ak".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ak();
    }
 
-   if("tk".equals(locale)){
+   if("tk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_tk();
    }
 
-   if("fr_BE".equals(locale)){
+   if("fr_BE".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fr_BE();
    }
 
-   if("xog".equals(locale)){
+   if("xog".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_xog();
    }
 
-   if("es_VE".equals(locale)){
+   if("es_VE".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_VE();
    }
 
-   if("dav".equals(locale)){
+   if("dav".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_dav();
    }
 
-   if("rm".equals(locale)){
+   if("rm".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_rm();
    }
 
-   if("mk".equals(locale)){
+   if("mk".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mk();
    }
 
-   if("es_NI".equals(locale)){
+   if("es_NI".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_NI();
    }
 
-   if("jgo".equals(locale)){
+   if("jgo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_jgo();
    }
 
-   if("ta".equals(locale)){
+   if("ta".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ta();
    }
 
-   if("cy".equals(locale)){
+   if("cy".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_cy();
    }
 
-   if("es_PR".equals(locale)){
+   if("es_PR".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_PR();
    }
 
-   if("pt_TL".equals(locale)){
+   if("pt_TL".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pt_TL();
    }
 
-   if("shi".equals(locale)){
+   if("shi".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_shi();
    }
 
-   if("ca".equals(locale)){
+   if("ca".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ca();
    }
 
-   if("es_GT".equals(locale)){
+   if("es_GT".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_GT();
    }
 
-   if("lkt".equals(locale)){
+   if("lkt".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lkt();
    }
 
-   if("sr".equals(locale)){
+   if("sr".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sr();
    }
 
-   if("es_PY".equals(locale)){
+   if("es_PY".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_PY();
    }
 
-   if("yo_BJ".equals(locale)){
+   if("yo_BJ".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_yo_BJ();
    }
 
-   if("gv".equals(locale)){
+   if("gv".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_gv();
    }
 
-   if("mn".equals(locale)){
+   if("mn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_mn();
    }
 
-   if("lo".equals(locale)){
+   if("lo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lo();
    }
 
-   if("sv".equals(locale)){
+   if("sv".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_sv();
    }
 
-   if("hu".equals(locale)){
+   if("hu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_hu();
    }
 
-   if("is".equals(locale)){
+   if("is".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_is();
    }
 
-   if("bm".equals(locale)){
+   if("bm".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bm();
    }
 
-   if("el".equals(locale)){
+   if("el".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_el();
    }
 
-   if("shi_Latn".equals(locale)){
+   if("shi_Latn".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_shi_Latn();
    }
 
-   if("nl".equals(locale)){
+   if("nl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_nl();
    }
 
-   if("rof".equals(locale)){
+   if("rof".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_rof();
    }
 
-   if("wae".equals(locale)){
+   if("wae".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_wae();
    }
 
-   if("zh_Hans_HK".equals(locale)){
+   if("zh_Hans_HK".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_zh_Hans_HK();
    }
 
-   if("uz_Cyrl".equals(locale)){
+   if("uz_Cyrl".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_uz_Cyrl();
    }
 
-   if("se".equals(locale)){
+   if("se".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_se();
    }
 
-   if("qu".equals(locale)){
+   if("qu".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_qu();
    }
 
-   if("km".equals(locale)){
+   if("km".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_km();
    }
 
-   if("fur".equals(locale)){
+   if("fur".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fur();
    }
 
-   if("ee".equals(locale)){
+   if("ee".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ee();
    }
 
-   if("kde".equals(locale)){
+   if("kde".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_kde();
    }
 
-   if("pa_Arab".equals(locale)){
+   if("pa_Arab".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_pa_Arab();
    }
 
-   if("bn_IN".equals(locale)){
+   if("bn_IN".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_bn_IN();
    }
 
-   if("es_CR".equals(locale)){
+   if("es_CR".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_CR();
    }
 
-   if("xh".equals(locale)){
+   if("xh".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_xh();
    }
 
-   if("fil".equals(locale)){
+   if("fil".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_fil();
    }
 
-   if("so".equals(locale)){
+   if("so".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_so();
    }
 
-   if("tg".equals(locale)){
+   if("tg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_tg();
    }
 
-   if("prg".equals(locale)){
+   if("prg".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_prg();
    }
 
-   if("rw".equals(locale)){
+   if("rw".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_rw();
    }
 
-   if("lb".equals(locale)){
+   if("lb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_lb();
    }
 
-   if("es_PE".equals(locale)){
+   if("es_PE".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_es_PE();
    }
 
-   if("vun".equals(locale)){
+   if("vun".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_vun();
    }
 
-   if("eo".equals(locale)){
+   if("eo".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_eo();
    }
 
-   if("jmc".equals(locale)){
+   if("jmc".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_jmc();
    }
 
-   if("ckb".equals(locale)){
+   if("ckb".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ckb();
    }
 
-   if("ha".equals(locale)){
+   if("ha".equals(System.getProperty("locale"))){
      return new LocalizedNamesImpl_ha();
    }
 
